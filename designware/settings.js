@@ -1,0 +1,2 @@
+var IMAGES_FOLDER = 'http://stellamagnolia.com/wp-content/themes/unique/designware/'; //Set ABSOLUTE URL( trailing slash included) if images are stored in a different path from application directory
+var PALETTE_CSV = 'http://stellamagnolia.com/wp-content/themes/unique/designware/palette.csv'; // Set ABSOLUTE PATH if data stored in a different path from application directory

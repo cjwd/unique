@@ -1,0 +1,6137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: tag.php:89 archive.php:97 category.php:89 index.php:101 single.php:385
+#: search.php:87 author.php:107 page-blog.php:104
+msgid "% Comments"
+msgstr ""
+
+
+#: comments.php:27
+msgid "&larr; Older Comments"
+msgstr ""
+
+
+#: comments.php:36
+msgid "(required)"
+msgstr ""
+
+
+#: tag.php:89 archive.php:97 category.php:89 index.php:101 single.php:385
+#: search.php:87 author.php:107 page-blog.php:104
+msgid "1 Comments"
+msgstr ""
+
+
+#: theme-option.php:155
+msgid "404 Page"
+msgstr ""
+
+
+#: page-contact.php:64
+msgid ""
+"<P class=\"recaptcha-error\">The reCAPTCHA wasn`t entered correctly. Please "
+"try it again.</p>"
+msgstr ""
+
+
+#: theme-option.php:2659
+msgid "<br /><strong>\"pause\"</strong> animation while hovering."
+msgstr ""
+
+
+#: theme-option.php:2156
+msgid ""
+"<br /><strong>\"timeout\"</strong> between slide animation (ms) (3000 by "
+"default)."
+msgstr ""
+
+
+#: theme-option.php:1281
+msgid ""
+"<br /><strong>\"timeout\"</strong> between slide animation (ms) (5000 by "
+"default)."
+msgstr ""
+
+
+#: theme-option.php:2356
+msgid ""
+"<br /><strong>\"timeout\"</strong> between slide animation (ms) (6000 by "
+"default)."
+msgstr ""
+
+
+#: theme-option.php:2553
+msgid ""
+"<br /><strong>\"timeout\"</strong> between slide animation (ms) (7000 by "
+"default)."
+msgstr ""
+
+
+#: post-option.php:223
+msgid "<br />Choose and upload your image from here."
+msgstr ""
+
+
+#: theme-option.php:383 portfolio-option.php:281
+msgid "<br />Choose and upload your logo from here."
+msgstr ""
+
+
+#: theme-option.php:1514
+msgid "<br />The <strong>\"event</strong> that triggers the expand effect."
+msgstr ""
+
+
+#: theme-option.php:769
+msgid "<br />You can type custom css here."
+msgstr ""
+
+
+#: theme-option.php:4483
+msgid "<br />You can write your information to appear in top."
+msgstr ""
+
+
+#: theme-option.php:4456
+msgid "<br />You can write your text to appear in top bar."
+msgstr ""
+
+
+#: theme-option.php:2348
+msgid ""
+"<br />a custom <strong>\"easing\"</strong> function during the animation."
+msgstr ""
+
+
+#: theme-option.php:1501
+msgid "<br />a custom <strong>\"easing\"</strong> function for the animation."
+msgstr ""
+
+
+#: theme-option.php:2785
+msgid "<br />change position from <strong>\"fixed to absolute\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:4545
+msgid "<br />disable <strong>slide-down</strong> animation for submenu."
+msgstr ""
+
+
+#: theme-option.php:1830
+msgid "<br />disable/enable <strong>\"auto slider\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:2751
+msgid "<br />disable/enable <strong>\"pagination\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:1964
+msgid ""
+"<br />disable/enable <strong>\"second image & caption animation\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:345
+msgid "<br />disable/enable <strong>\"shadow\"</strong> for body wrapper."
+msgstr ""
+
+
+#: theme-option.php:2794
+msgid "<br />displays <strong>\"how slides play\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:2667
+msgid ""
+"<br />displays <strong>\"which slide on\"</strong> page load (0 by default)."
+msgstr ""
+
+
+#: theme-option.php:2498
+msgid ""
+"<br />displays <strong>\"which slide on\"</strong> page load.  (1 by "
+"default)."
+msgstr ""
+
+
+#: theme-option.php:2487
+msgid "<br />enable <strong>\"autoplay\"</strong> animation."
+msgstr ""
+
+
+#: theme-option.php:2269
+msgid ""
+"<br />enable <strong>\"reverses\"</strong> the direction in which Roundabout "
+"will operate."
+msgstr ""
+
+
+#: theme-option.php:2505
+msgid "<br />enable <strong>\"rounded corner\"</strong> for slider wrapper."
+msgstr ""
+
+
+#: theme-option.php:2563
+msgid "<br />enable/disable <strong>\"caption\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:1739
+msgid "<br />enable/disable <strong>\"caption</strong>."
+msgstr ""
+
+
+#: theme-option.php:2652
+msgid "<br />enable/disable <strong>direction\"</strong>."
+msgstr ""
+
+
+#: page-option.php:666
+msgid ""
+"<br />enter your <strong>\"email\"</strong> for contact form destination."
+msgstr ""
+
+
+#: theme-option.php:758
+msgid "<br />from here you can disable or enable custom css."
+msgstr ""
+
+
+#: theme-option.php:737
+msgid "<br />from here you can disable or enable tracking code."
+msgstr ""
+
+
+#: theme-option.php:4653
+msgid "<br />from here you can show or hide backtotop."
+msgstr ""
+
+
+#: theme-option.php:4636
+msgid "<br />from here you can show or hide breadcrumb."
+msgstr ""
+
+
+#: theme-option.php:4604
+msgid "<br />from here you can show or hide slogan controls."
+msgstr ""
+
+
+#: theme-option.php:4594
+msgid "<br />from here you can show or hide slogan."
+msgstr ""
+
+
+#: theme-option.php:4437
+msgid "<br />from here you can show or hide top bar."
+msgstr ""
+
+
+#: theme-option.php:4472
+msgid "<br />from here you can show or hide top information section."
+msgstr ""
+
+
+#: theme-option.php:4447
+msgid "<br />from here you can show or hide top navigation."
+msgstr ""
+
+
+#: theme-option.php:4502
+msgid "<br />from here you can show or hide top search."
+msgstr ""
+
+
+#: theme-option.php:1269
+msgid "<br />number of <strong>\"boxCols\"</strong> (8 by default)."
+msgstr ""
+
+
+#: theme-option.php:1273
+msgid "<br />number of <strong>\"boxRows\"</strong> (4 by default)."
+msgstr ""
+
+
+#: theme-option.php:1265
+msgid "<br />number of <strong>\"slices\"</strong> (15 by default)."
+msgstr ""
+
+
+#: page-option.php:582
+msgid "<br />number of excerpt word for per thumbnail."
+msgstr ""
+
+
+#: page-option.php:360
+msgid "<br />number of excerpt word for per thumbnail. (44 by default)"
+msgstr ""
+
+
+#: page-option.php:687
+msgid "<br />place <strong>\"recaptcha private key\"</strong> here."
+msgstr ""
+
+
+#: page-option.php:682
+msgid "<br />place <strong>\"recaptcha public key\"</strong> here."
+msgstr ""
+
+
+#: testimonial-option.php:104
+msgid ""
+"<br />place <strong>\"website url\"</strong> here. <strong>without \"http://"
+"\"</strong>"
+msgstr ""
+
+
+#: portfolio-option.php:192
+msgid "<br />place pagination on top or bottom of the portfolio."
+msgstr ""
+
+
+#: post-option.php:135
+msgid "<br />place pagination on top or bottom of the postfolio."
+msgstr ""
+
+
+#: post-option.php:122 portfolio-option.php:179
+msgid "<br />place title above or below thumbnail image."
+msgstr ""
+
+
+#: slider-option.php:53
+msgid "<br />place your <strong>\"video path\"</strong> here."
+msgstr ""
+
+
+#: post-option.php:229 portfolio-option.php:287
+msgid ""
+"<br />place your <strong>\"youtube\"</strong> or <strong>\"vimeo\"</strong> "
+"url here."
+msgstr ""
+
+
+#: slider-option.php:47
+msgid "<br />place your url here."
+msgstr ""
+
+
+#: theme-option.php:932
+msgid "<br />replace desired font for all headings except H1."
+msgstr ""
+
+
+#: theme-option.php:896
+msgid ""
+"<br />replace desired font for body.<br />recommended don`t use cufon as "
+"body font."
+msgstr ""
+
+
+#: theme-option.php:1041
+msgid "<br />replace desired font for footer widget title."
+msgstr ""
+
+
+#: theme-option.php:968
+msgid "<br />replace desired font for main navigation."
+msgstr ""
+
+
+#: theme-option.php:1005
+msgid "<br />replace desired font for sidebar widget title."
+msgstr ""
+
+
+#: theme-option.php:1077
+msgid "<br />replace desired font for slogan text."
+msgstr ""
+
+
+#: theme-option.php:1113
+msgid "<br />replace desired font for stunning text."
+msgstr ""
+
+
+#: theme-option.php:1211
+msgid "<br />select <strong>\"category\"</strong> to disply on slider."
+msgstr ""
+
+
+#: theme-option.php:4696
+msgid "<br />select <strong>\"class\"</strong> for dark or light icons."
+msgstr ""
+
+
+#: page-option.php:712
+msgid "<br />select <strong>\"recaptcha language\"</strong>."
+msgstr ""
+
+
+#: page-option.php:698
+msgid "<br />select <strong>\"recaptcha theme\"</strong>."
+msgstr ""
+
+
+#: page-option.php:207
+msgid "<br />select <strong>\"slider category\"</strong> to disply on slider."
+msgstr ""
+
+
+#: theme-option.php:1196
+msgid "<br />select <strong>\"slider\"</strong> you want to use."
+msgstr ""
+
+
+#: theme-option.php:4558
+msgid "<br />select <strong>\"speed\"</strong> of the animation."
+msgstr ""
+
+
+#: page-option.php:510
+msgid "<br />select category to disply on page."
+msgstr ""
+
+
+#: page-option.php:98
+msgid "<br />select custom <strong>\"left sidebar\"</strong> for this page."
+msgstr ""
+
+
+#: portfolio-option.php:78
+msgid ""
+"<br />select custom <strong>\"left sidebar\"</strong> for this portfolio."
+msgstr ""
+
+
+#: post-option.php:78
+msgid "<br />select custom <strong>\"left sidebar\"</strong> for this post."
+msgstr ""
+
+
+#: testimonial-option.php:76
+msgid ""
+"<br />select custom <strong>\"left sidebar\"</strong> for this testimonial."
+msgstr ""
+
+
+#: page-option.php:84
+msgid "<br />select custom <strong>\"right sidebar\"</strong> for this page."
+msgstr ""
+
+
+#: portfolio-option.php:64
+msgid ""
+"<br />select custom <strong>\"right sidebar\"</strong> for this portfolio."
+msgstr ""
+
+
+#: post-option.php:64
+msgid "<br />select custom <strong>\"right sidebar\"</strong> for this post."
+msgstr ""
+
+
+#: testimonial-option.php:62
+msgid ""
+"<br />select custom <strong>\"right sidebar\"</strong> for this testimonial."
+msgstr ""
+
+
+#: portfolio-option.php:237
+msgid "<br />select option for link."
+msgstr ""
+
+
+#: page-option.php:597
+msgid "<br />select portfolio text align."
+msgstr ""
+
+
+#: page-option.php:490
+msgid "<br />select size of portfolio thumbnail."
+msgstr ""
+
+
+#: page-option.php:448
+msgid "<br />select style of portfolio thumbnail."
+msgstr ""
+
+
+#: theme-option.php:4664
+msgid "<br />select the side of \"back to top\" must be appear."
+msgstr ""
+
+
+#: theme-option.php:273
+msgid "<br />select theme style (default, wide, boxed)."
+msgstr ""
+
+
+#: slider-option.php:42
+msgid ""
+"<br />select type of <strong>\"slider link\"</strong>.<br />unsupported in "
+"tm slider."
+msgstr ""
+
+
+#: theme-option.php:261
+msgid "<br />select your desired skin."
+msgstr ""
+
+
+#: theme-option.php:1442
+msgid ""
+"<br />set <strong>\"Random selection\"</strong> of the first image slider."
+msgstr ""
+
+
+#: theme-option.php:1228
+msgid ""
+"<br />set <strong>\"background color\"</strong> for slider wrapper "
+"(transparent by default)."
+msgstr ""
+
+
+#: theme-option.php:2671
+msgid "<br />set <strong>\"background color\"</strong> for slider."
+msgstr ""
+
+
+#: theme-option.php:2292
+msgid "<br />set <strong>\"bottom border color\"</strong> for slider elements."
+msgstr ""
+
+
+#: theme-option.php:2679
+msgid ""
+"<br />set <strong>\"bottom margin\"</strong> for slider (0px by default)."
+msgstr ""
+
+
+#: theme-option.php:1221
+msgid ""
+"<br />set <strong>\"bottom padding\"</strong> for slider wrapper (0px by "
+"default)."
+msgstr ""
+
+
+#: theme-option.php:2722
+msgid ""
+"<br />set <strong>\"delay\"</strong> between slide animation (ms) (6000 by "
+"default)."
+msgstr ""
+
+
+#: theme-option.php:1683
+msgid "<br />set <strong>\"delay\"</strong> time (300 by default)."
+msgstr ""
+
+
+#: theme-option.php:2288
+msgid ""
+"<br />set <strong>\"greatest size\"</strong> (relative to its starting size) "
+"that will be assigned to a moving element (1 by default)."
+msgstr ""
+
+
+#: theme-option.php:2733
+msgid "<br />set <strong>\"height\"</strong> for images. (768 by default)."
+msgstr ""
+
+
+#: theme-option.php:1834
+msgid ""
+"<br />set <strong>\"interval\"</strong> for next slider (ms) (5000 by "
+"default)."
+msgstr ""
+
+
+#: theme-option.php:2759
+msgid "<br />set <strong>\"left\"</strong> for pagination."
+msgstr ""
+
+
+#: theme-option.php:2280
+msgid ""
+"<br />set <strong>\"lowest opacity\"</strong> that will be assigned to a "
+"moving element (1 by default)."
+msgstr ""
+
+
+#: theme-option.php:2284
+msgid ""
+"<br />set <strong>\"lowest size\"</strong> (relative to its starting size) "
+"that will be assigned to a moving element (0.4 by default)."
+msgstr ""
+
+
+#: theme-option.php:2763
+msgid "<br />set <strong>\"margin\"</strong> for pagination."
+msgstr ""
+
+
+#: theme-option.php:2741
+msgid ""
+"<br />set <strong>\"maximum height\"</strong> for images. (auto by default)."
+msgstr ""
+
+
+#: theme-option.php:2737
+msgid ""
+"<br />set <strong>\"maximum width\"</strong> for images. (auto by default)."
+msgstr ""
+
+
+#: theme-option.php:1717
+msgid ""
+"<br />set <strong>\"number of thumbnails\"</strong> for slide (0=auto by "
+"default)."
+msgstr ""
+
+
+#: theme-option.php:2635
+msgid "<br />set <strong>\"opacity\"</strong> caption (1 by default)."
+msgstr ""
+
+
+#: theme-option.php:2809
+msgid "<br />set <strong>\"position\"</strong> for slider."
+msgstr ""
+
+
+#: theme-option.php:2423
+msgid ""
+"<br />set <strong>\"text alignment\"</strong> for caption text (left by "
+"default)."
+msgstr ""
+
+
+#: theme-option.php:2620
+msgid ""
+"<br />set <strong>\"text alignment\"</strong> for caption text (left by "
+"default).<"
+msgstr ""
+
+
+#: theme-option.php:1713
+msgid "<br />set <strong>\"thumbnails position\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:1920
+msgid ""
+"<br />set <strong>\"timeout\"</strong> between slide animation (ms) (5000 by "
+"default)."
+msgstr ""
+
+
+#: theme-option.php:2675
+msgid "<br />set <strong>\"top margin\"</strong> for slider (0px by default)."
+msgstr ""
+
+
+#: theme-option.php:2509
+msgid "<br />set <strong>\"top margin\"</strong> for slider (55px by default)."
+msgstr ""
+
+
+#: theme-option.php:1217
+msgid ""
+"<br />set <strong>\"top padding\"</strong> for slider wrapper (0px by "
+"default)."
+msgstr ""
+
+
+#: theme-option.php:2755
+msgid "<br />set <strong>\"top\"</strong> for pagination."
+msgstr ""
+
+
+#: theme-option.php:1525
+msgid "<br />set <strong>\"vertically aligment\"</strong> for slider."
+msgstr ""
+
+
+#: theme-option.php:2729
+msgid "<br />set <strong>\"width\"</strong> for images. (1024 by default)."
+msgstr ""
+
+
+#: theme-option.php:2663
+msgid "<br />set <strong>\"width\"</strong> for slider (1680px by default)."
+msgstr ""
+
+
+#: post-option.php:152 portfolio-option.php:209
+msgid "<br />set align for pagination."
+msgstr ""
+
+
+#: theme-option.php:2771
+msgid "<br />set color for <strong>\"active pagination\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:2775
+msgid "<br />set color for <strong>\"pagination shadow\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:2767
+msgid "<br />set color for <strong>\"pagination\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:4856
+msgid "<br />set social share for<strong>\"Delicious\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:4865
+msgid "<br />set social share for<strong>\"Digg\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:4811
+msgid "<br />set social share for<strong>\"Face Book\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:4829
+msgid "<br />set social share for<strong>\"Google\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:4883
+msgid "<br />set social share for<strong>\"Linkedin\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:4847
+msgid "<br />set social share for<strong>\"My Space\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:4874
+msgid "<br />set social share for<strong>\"Reddit\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:4838
+msgid "<br />set social share for<strong>\"Stumble Upon\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:4820
+msgid "<br />set social share for<strong>\"Twitter\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:1291
+msgid "<br />show <strong>\"direction\"</strong> (Prev &amp; Next)."
+msgstr ""
+
+
+#: theme-option.php:1305
+msgid "<br />show <strong>\"pagination\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:1697
+msgid "<br />show <strong>\"thumbnails\"</strong> preview\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:4918
+msgid "<br />show or hide footer widget section."
+msgstr ""
+
+
+#: theme-option.php:4518
+msgid "<br />show or hide main navigation arrow."
+msgstr ""
+
+
+#: theme-option.php:4528
+msgid "<br />show or hide menu item divider."
+msgstr ""
+
+
+#: page-option.php:193
+msgid "<br />show or hide slider for this page."
+msgstr ""
+
+
+#: theme-option.php:452
+msgid ""
+"<br />show or hide your body background image.<br />this is only for "
+"background image no pattern`s"
+msgstr ""
+
+
+#: theme-option.php:4385
+msgid "<br />show or hide your desired background."
+msgstr ""
+
+
+#: theme-option.php:423
+msgid "<br />show or hide your favicon."
+msgstr ""
+
+
+#: theme-option.php:370
+msgid "<br />show or hide your logo."
+msgstr ""
+
+
+#: theme-option.php:2631
+msgid "<br />show/hide <strong>\"background gradient image\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:2718
+msgid ""
+"<br />slide <strong>\"transition speed\"</strong> (ms) (1000 by default)."
+msgstr ""
+
+
+#: theme-option.php:1277
+msgid ""
+"<br />slide <strong>\"transition speed\"</strong> (ms) (500 by default)."
+msgstr ""
+
+
+#: theme-option.php:2152
+msgid ""
+"<br />slide <strong>\"transition speed\"</strong> (ms) (600 by default)."
+msgstr ""
+
+
+#: theme-option.php:2352
+msgid ""
+"<br />slide <strong>\"transition speed\"</strong> (ms) (800 by default)."
+msgstr ""
+
+
+#: theme-option.php:1687
+msgid "<br />slide <strong>\"transition speed</strong> (ms) (500 by default)."
+msgstr ""
+
+
+#: theme-option.php:2700
+msgid "<br />specify <strong>\"effect\"</strong> parameter."
+msgstr ""
+
+
+#: theme-option.php:1748
+msgid "<br />specify <strong>\"how show caption\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:481
+msgid "<br />specify repeat parameter. (repeat by default)"
+msgstr ""
+
+
+#: theme-option.php:1505
+msgid ""
+"<br />the <strong>\"duration\"</strong> required for each animation to "
+"complete in milliseconds. (500 by default)."
+msgstr ""
+
+
+#: theme-option.php:2480
+msgid "<br />the <strong>\"event\"</strong> that triggers the expand effect."
+msgstr ""
+
+
+#: page-option.php:534
+msgid "<br />this is the number of items per page. (10 by default)"
+msgstr ""
+
+
+#: testimonial-option.php:97
+msgid "<br />type <strong>\"company name\"</strong> here."
+msgstr ""
+
+
+#: testimonial-option.php:91
+msgid "<br />type <strong>\"post of author\"</strong> here."
+msgstr ""
+
+
+#: portfolio-option.php:200
+msgid "<br />use \"portfolio name\" or \"next & previous\"."
+msgstr ""
+
+
+#: post-option.php:143
+msgid "<br />use \"postfolio name\" or \"next & previous\"."
+msgstr ""
+
+
+#: theme-option.php:1848
+msgid "<br />use <strong>\"keyboard\"</strong> navigation."
+msgstr ""
+
+
+#: theme-option.php:1312
+msgid "<br />use <strong>\"thumbnails for pagination\"</strong>."
+msgstr ""
+
+
+#: portfolio-option.php:96 page-option.php:281
+msgid "<br />use desired style."
+msgstr ""
+
+
+#: page-option.php:386
+msgid "<br />use this option for enable/disable prettyphoto."
+msgstr ""
+
+
+#: testimonial-option.php:118
+msgid "<br />use this option for show or hide author image."
+msgstr ""
+
+
+#: page-option.php:474
+msgid "<br />use this option for show or hide borders."
+msgstr ""
+
+
+#: theme-option.php:4973
+msgid "<br />use this option for show or hide copyright."
+msgstr ""
+
+
+#: page-option.php:523
+msgid "<br />use this option for show or hide filter buttons."
+msgstr ""
+
+
+#: page-option.php:623
+msgid "<br />use this option for show or hide more button."
+msgstr ""
+
+
+#: page-option.php:172
+msgid "<br />use this option for show or hide page content."
+msgstr ""
+
+
+#: page-option.php:159
+msgid "<br />use this option for show or hide page title."
+msgstr ""
+
+
+#: page-option.php:649
+msgid "<br />use this option for show or hide pagination."
+msgstr ""
+
+
+#: portfolio-option.php:139
+msgid "<br />use this option for show or hide portfolio author information."
+msgstr ""
+
+
+#: page-option.php:610
+msgid "<br />use this option for show or hide portfolio category."
+msgstr ""
+
+
+#: page-option.php:461
+msgid "<br />use this option for show or hide portfolio date."
+msgstr ""
+
+
+#: portfolio-option.php:152
+msgid "<br />use this option for show or hide portfolio social icon."
+msgstr ""
+
+
+#: post-option.php:95
+msgid "<br />use this option for show or hide post author information."
+msgstr ""
+
+
+#: post-option.php:108
+msgid "<br />use this option for show or hide post social icon."
+msgstr ""
+
+
+#: portfolio-option.php:165
+msgid "<br />use this option for show or hide related portfolios."
+msgstr ""
+
+
+#: post-option.php:166
+msgid "<br />use this option for show or hide related posts."
+msgstr ""
+
+
+#: page-option.php:399
+msgid "<br />use this option for show or hide tag in meta information."
+msgstr ""
+
+
+#: page-option.php:571
+msgid "<br />use this option for show or hide thumbnail excerpt."
+msgstr ""
+
+
+#: page-option.php:547
+msgid "<br />use this option for show or hide thumbnail title."
+msgstr ""
+
+
+#: page-option.php:636
+msgid "<br />use this option for show or hide website button."
+msgstr ""
+
+
+#: theme-option.php:303
+msgid "<br />when it is on, portfolio page display as blog page."
+msgstr ""
+
+
+#: theme-option.php:4611
+msgid ""
+"<br />write speed in millisecond for animation speed.<br />(8000 by default)"
+msgstr ""
+
+
+#: theme-option.php:293
+msgid "<br />you can enable/disable page comment from here."
+msgstr ""
+
+
+#: theme-option.php:283
+msgid "<br />you can enable/disable responsive from here."
+msgstr ""
+
+
+#: theme-option.php:226
+msgid ""
+"<p><span>You can apply your desired settings</span><span>for different "
+"sections</span>"
+msgstr ""
+
+
+#: 404.php:16
+msgid ""
+"<p>Please try using our search box below to look for information on the "
+"internet</p>"
+msgstr ""
+
+
+#: 404.php:15
+msgid ""
+"<p>The page you are looking for might have been removed, had its name "
+"changed, or is temporarily unavailable.</p>"
+msgstr ""
+
+
+#: theme-option.php:224
+msgid "<p>Welcome To Setting Section</p>"
+msgstr ""
+
+
+#: persian-art-flickr-wigdet.php:99
+msgid "<small>Maximum 150.</small>"
+msgstr ""
+
+
+#: persian-art-flickr-wigdet.php:92
+msgid "<small>Maximum 20.</small>"
+msgstr ""
+
+
+#: persian-art-flickr-wigdet.php:115
+msgid "<small>These are flickr special sizes</small>"
+msgstr ""
+
+
+#: persian-art-flickr-wigdet.php:85
+msgid ""
+"<small>To find your ID go to <a href=\"http://idgettr.com\">idgettr</a>.</"
+"small>"
+msgstr ""
+
+
+#: theme-option.php:5024
+msgid "<span>When you apply the desired changes, press this button</span>"
+msgstr ""
+
+
+#: page-contact.php:64 persian-art-contact-widget.php:171
+msgid ""
+"<strong>Thanks!</strong> Your email was successfully sent. I check my email "
+"all the time, so I should be in touch soon."
+msgstr ""
+
+
+#: theme-option.php:225
+msgid "<strong>Unique Theme</strong>"
+msgstr ""
+
+
+#: author.php:29
+msgid "About: "
+msgstr ""
+
+
+#: theme-option.php:1124
+msgid "Add font"
+msgstr ""
+
+
+#: theme-option.php:526
+msgid "Add sidebar"
+msgstr ""
+
+
+#: theme-option.php:169 theme-option.php:3957
+msgid "All Backgrounds"
+msgstr ""
+
+
+#: theme-option.php:4434 theme-option.php:4499
+msgid "Always hide"
+msgstr ""
+
+
+#: theme-option.php:4433 theme-option.php:4498
+msgid "Always show"
+msgstr ""
+
+
+#: archive.php:23
+msgid "Archives"
+msgstr ""
+
+
+#: testimonial-option.php:86
+msgid "Author destails"
+msgstr ""
+
+
+#: theme-option.php:4432 theme-option.php:4497
+msgid "Auto-hide"
+msgstr ""
+
+
+#: theme-option.php:190 theme-option.php:4645
+msgid "Back To Top"
+msgstr ""
+
+
+#: theme-option.php:158
+msgid "Back to Top"
+msgstr ""
+
+
+#: theme-option.php:3147
+msgid "Back to Top Coloring"
+msgstr ""
+
+
+#: theme-option.php:444
+msgid "Background Setting"
+msgstr ""
+
+
+#: theme-option.php:4451
+msgid "Bar information"
+msgstr ""
+
+
+#: theme-option.php:108
+msgid "Bgstretcher Slider"
+msgstr ""
+
+
+#: theme-option.php:2689
+msgid "Bgstretcher Slider Settings"
+msgstr ""
+
+
+#: page-option.php:270
+msgid "Blog Option &amp; Settings"
+msgstr ""
+
+
+#: page-option.php:307
+msgid "Blog item per page"
+msgstr ""
+
+
+#: theme-option.php:243
+msgid "BlueViolet"
+msgstr ""
+
+
+#: theme-option.php:119
+msgid "Body / General"
+msgstr ""
+
+
+#: theme-option.php:2818
+msgid "Body / General Coloring"
+msgstr ""
+
+
+#: theme-option.php:50
+msgid "Body Background"
+msgstr ""
+
+
+#: theme-option.php:862
+msgid "Body font"
+msgstr ""
+
+
+#: theme-option.php:493
+msgid "Body pattern"
+msgstr ""
+
+
+#: page-option.php:30
+msgid "Bolg Option"
+msgstr ""
+
+
+#: theme-option.php:268
+msgid "Boxed"
+msgstr ""
+
+
+#: theme-option.php:134 theme-option.php:187 theme-option.php:4628
+msgid "Breadcrumb"
+msgstr ""
+
+
+#: theme-option.php:3076
+msgid "Breadcrumb Coloring"
+msgstr ""
+
+
+#: theme-option.php:244
+msgid "CadetBlue"
+msgstr ""
+
+
+#: category.php:15
+msgid "Category Archives: %s"
+msgstr ""
+
+
+#: page-option.php:496
+msgid "Category of portfolio"
+msgstr ""
+
+
+#: page-option.php:287
+msgid "Category of post"
+msgstr ""
+
+
+#: slider-option.php:69
+msgid ""
+"Choose and upload your <strong>\"secondary image\"</strong> from here.<br /"
+">Currently \"Cycle Slider\" only."
+msgstr ""
+
+
+#: theme-option.php:436
+msgid "Choose and upload your favicon.<br />Best siz is 16x16 px."
+msgstr ""
+
+
+#: theme-option.php:4396 page-option.php:125
+msgid ""
+"Choose and upload your image from here.<br />use the following fields "
+"respectively for set parameter:<br /><strong>\"left\"</strong> <strong>\"top"
+"\"</strong> <strong>\"repeat\"</strong> &amp;<strong>\"fix\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:4990
+msgid "Choose and write copyright"
+msgstr ""
+
+
+#: portfolio-option.php:103
+msgid "Client name"
+msgstr ""
+
+
+#: single.php:198 single.php:216
+msgid "Client:"
+msgstr ""
+
+
+#: comments.php:36
+msgid "Comment"
+msgstr ""
+
+
+#: comments.php:26
+msgid "Comment Navigation"
+msgstr ""
+
+
+#: comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+
+#: page-option.php:366
+msgid "Complete content"
+msgstr ""
+
+
+#: theme-option.php:3904
+msgid "Contact / Comment Form coloring"
+msgstr ""
+
+
+#: page-contact.php:64 persian-art-contact-widget.php:171
+msgid "Contact Form Submission from "
+msgstr ""
+
+
+#: persian-art-contact-widget.php:142
+msgid "Contact Me"
+msgstr ""
+
+
+#: page-option.php:32
+msgid "Contact Option"
+msgstr ""
+
+
+#: page-option.php:658
+msgid "Contact Option &amp; Settings"
+msgstr ""
+
+
+#: persian-art-contact-widget.php:142
+msgid "Contact from widget"
+msgstr ""
+
+
+#: theme-option.php:152
+msgid "ContactForm / Comment"
+msgstr ""
+
+
+#: theme-option.php:4212
+msgid "Content"
+msgstr ""
+
+
+#: page-option.php:40
+msgid "Content wrapper width"
+msgstr ""
+
+
+#: tag.php:92 archive.php:100 category.php:92 index.php:105 search.php:90
+#: author.php:110 page-blog.php:108
+msgid "Continue Reading"
+msgstr ""
+
+
+#: theme-option.php:2102
+msgid "Conveyor Belt Left"
+msgstr ""
+
+
+#: theme-option.php:2103
+msgid "Conveyor Belt Right"
+msgstr ""
+
+
+#: theme-option.php:143 theme-option.php:4380
+msgid "Copyright"
+msgstr ""
+
+
+#: theme-option.php:3567
+msgid "Copyright Section Coloring"
+msgstr ""
+
+
+#: theme-option.php:205 theme-option.php:4964
+msgid "Copyright Setting"
+msgstr ""
+
+
+#: theme-option.php:245
+msgid "Coral"
+msgstr ""
+
+
+#: theme-option.php:246
+msgid "Crimson"
+msgstr ""
+
+
+#: theme-option.php:750
+msgid "Custom CSS"
+msgstr ""
+
+
+#: theme-option.php:96
+msgid "Cycle Slider"
+msgstr ""
+
+
+#: theme-option.php:1870
+msgid "Cycle Slider Settings"
+msgstr ""
+
+
+#: archive.php:17
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+
+#: theme-option.php:247
+msgid "DeepPink"
+msgstr ""
+
+
+#: theme-option.php:3654
+msgid "Default style"
+msgstr ""
+
+
+#: theme-option.php:4700
+msgid "Delicious"
+msgstr ""
+
+
+#: theme-option.php:4707
+msgid "Deviant Art"
+msgstr ""
+
+
+#: theme-option.php:2104
+msgid "Diagonal Ring Left"
+msgstr ""
+
+
+#: theme-option.php:2105
+msgid "Diagonal Ring Right"
+msgstr ""
+
+
+#: theme-option.php:4714
+msgid "Digg"
+msgstr ""
+
+
+#: persian-art-flickr-wigdet.php:96
+msgid "Dimension"
+msgstr ""
+
+
+#: theme-option.php:4647
+msgid "Display \"back to top\""
+msgstr ""
+
+
+#: page-option.php:516
+msgid "Display Filters"
+msgstr ""
+
+
+#: post-option.php:88 portfolio-option.php:132
+msgid "Display author information"
+msgstr ""
+
+
+#: theme-option.php:447
+msgid "Display background image"
+msgstr ""
+
+
+#: page-option.php:467
+msgid "Display borders"
+msgstr ""
+
+
+#: theme-option.php:4630
+msgid "Display breadcrumb"
+msgstr ""
+
+
+#: page-option.php:165
+msgid "Display content"
+msgstr ""
+
+
+#: page-option.php:405
+msgid "Display continue link"
+msgstr ""
+
+
+#: theme-option.php:4966
+msgid "Display copyright"
+msgstr ""
+
+
+#: theme-option.php:306
+msgid "Display custom style"
+msgstr ""
+
+
+#: page-option.php:454
+msgid "Display date"
+msgstr ""
+
+
+#: theme-option.php:418
+msgid "Display favicon"
+msgstr ""
+
+
+#: theme-option.php:4976
+msgid "Display footer navigation"
+msgstr ""
+
+
+#: testimonial-option.php:111
+msgid "Display image"
+msgstr ""
+
+
+#: theme-option.php:365
+msgid "Display logo"
+msgstr ""
+
+
+#: theme-option.php:4523
+msgid "Display menu divider"
+msgstr ""
+
+
+#: theme-option.php:4513
+msgid "Display navigation arrow"
+msgstr ""
+
+
+#: page-option.php:642
+msgid "Display pagination"
+msgstr ""
+
+
+#: theme-option.php:296
+msgid "Display portfolio as blog"
+msgstr ""
+
+
+#: page-option.php:603
+msgid "Display portfolio category"
+msgstr ""
+
+
+#: page-option.php:379
+msgid "Display prettyphoto"
+msgstr ""
+
+
+#: page-option.php:616
+msgid "Display read more button<"
+msgstr ""
+
+
+#: portfolio-option.php:158
+msgid "Display related portfolios"
+msgstr ""
+
+
+#: post-option.php:159
+msgid "Display related posts"
+msgstr ""
+
+
+#: theme-option.php:573
+msgid "Display sidebar divider"
+msgstr ""
+
+
+#: theme-option.php:4587
+msgid "Display slogan"
+msgstr ""
+
+
+#: theme-option.php:4597
+msgid "Display slogan controls"
+msgstr ""
+
+
+#: post-option.php:101 portfolio-option.php:145
+msgid "Display social icon"
+msgstr ""
+
+
+#: theme-option.php:4805
+msgid "Display social share on post page"
+msgstr ""
+
+
+#: page-option.php:392
+msgid "Display tag"
+msgstr ""
+
+
+#: page-option.php:564
+msgid "Display thumbnail excerpt"
+msgstr ""
+
+
+#: page-option.php:540
+msgid "Display thumbnail title"
+msgstr ""
+
+
+#: page-option.php:152
+msgid "Display title"
+msgstr ""
+
+
+#: theme-option.php:4428
+msgid "Display top bar"
+msgstr ""
+
+
+#: theme-option.php:4466
+msgid "Display top information"
+msgstr ""
+
+
+#: theme-option.php:4440
+msgid "Display top navigation"
+msgstr ""
+
+
+#: theme-option.php:4493
+msgid "Display top search"
+msgstr ""
+
+
+#: page-option.php:629
+msgid "Display website button"
+msgstr ""
+
+
+#: page-option.php:704
+msgid "Dutch"
+msgstr ""
+
+
+#: theme-option.php:4540
+msgid "Effect properties"
+msgstr ""
+
+
+#: page-contact.php:233 persian-art-contact-widget.php:116 page-option.php:661
+msgid "Email"
+msgstr ""
+
+
+#: persian-art-contact-widget.php:167
+msgid "Email:"
+msgstr ""
+
+
+#: theme-option.php:752
+msgid "Enable custom css"
+msgstr ""
+
+
+#: theme-option.php:731
+msgid "Enable tracking code"
+msgstr ""
+
+
+#: page-option.php:703
+msgid "English"
+msgstr ""
+
+
+#: 404.php:13
+msgid "Error 404 Not Found"
+msgstr ""
+
+
+#: theme-option.php:4721
+msgid "Face Book"
+msgstr ""
+
+
+#: theme-option.php:4555
+msgid "Fast"
+msgstr ""
+
+
+#: theme-option.php:47
+msgid "Favicon"
+msgstr ""
+
+
+#: theme-option.php:415
+msgid "Favicon Image"
+msgstr ""
+
+
+#: theme-option.php:2100
+msgid "Figure 8"
+msgstr ""
+
+
+#: theme-option.php:248
+msgid "FireBrick"
+msgstr ""
+
+
+#: theme-option.php:4728
+msgid "Flickr"
+msgstr ""
+
+
+#: persian-art-flickr-wigdet.php:117
+msgid "Flickr Widget"
+msgstr ""
+
+
+#: theme-option.php:70
+msgid "Font Family"
+msgstr ""
+
+
+#: theme-option.php:860
+msgid "Font Settings"
+msgstr ""
+
+
+#: theme-option.php:67 theme-option.php:777
+msgid "Font Size"
+msgstr ""
+
+
+#: theme-option.php:73 theme-option.php:1121
+msgid "Font Upload"
+msgstr ""
+
+
+#: theme-option.php:1132
+msgid "Font name"
+msgstr ""
+
+
+#: theme-option.php:140 theme-option.php:4296
+msgid "Footer"
+msgstr ""
+
+
+#: theme-option.php:3376
+msgid "Footer Coloring"
+msgstr ""
+
+
+#: theme-option.php:4893
+msgid "Footer Setting"
+msgstr ""
+
+
+#: theme-option.php:199
+msgid "Footer Status"
+msgstr ""
+
+
+#: theme-option.php:202
+msgid "Footer Style"
+msgstr ""
+
+
+#: theme-option.php:4910
+msgid "Footer Style Setting"
+msgstr ""
+
+
+#: theme-option.php:4895
+msgid "Footer status"
+msgstr ""
+
+
+#: theme-option.php:4912
+msgid "Footer widgets status"
+msgstr ""
+
+
+#: theme-option.php:1008
+msgid "Footer widgets title font"
+msgstr ""
+
+
+#: page-option.php:705
+msgid "French"
+msgstr ""
+
+
+#: theme-option.php:3766
+msgid "Gallery border style"
+msgstr ""
+
+
+#: theme-option.php:3733
+msgid "Gallery no-border style"
+msgstr ""
+
+
+#: page-option.php:29
+msgid "General Option"
+msgstr ""
+
+
+#: page-option.php:36
+msgid "General Option &amp; Settings"
+msgstr ""
+
+
+#: page-option.php:706
+msgid "German"
+msgstr ""
+
+
+#: theme-option.php:249
+msgid "Gold"
+msgstr ""
+
+
+#: theme-option.php:2109
+msgid "Goodbye Cruel World"
+msgstr ""
+
+
+#: page-option.php:718
+msgid "Google map"
+msgstr ""
+
+
+#: page-option.php:728
+msgid "Google map height"
+msgstr ""
+
+
+#: page-option.php:735
+msgid "Google map on top"
+msgstr ""
+
+
+#: theme-option.php:4002
+msgid "Header"
+msgstr ""
+
+
+#: theme-option.php:899
+msgid "Headings font"
+msgstr ""
+
+
+#: page-contact.php:253 persian-art-contact-widget.php:131
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+
+#: theme-option.php:2726
+msgid "Image Setting"
+msgstr ""
+
+
+#: theme-option.php:2442
+msgid "Items color"
+msgstr ""
+
+
+#: theme-option.php:90
+msgid "Kwicks Slider"
+msgstr ""
+
+
+#: theme-option.php:1464
+msgid "Kwicks Slider Settings"
+msgstr ""
+
+
+#: theme-option.php:4735
+msgid "Lastfm"
+msgstr ""
+
+
+#: theme-option.php:2098
+msgid "Lazy Susan"
+msgstr ""
+
+
+#: page-option.php:577
+msgid "Length of excerpt"
+msgstr ""
+
+
+#: page-option.php:553
+msgid "Length of title"
+msgstr ""
+
+
+#: persian-art-recent-posts-widget.php:99
+#: persian-art-post-cycle-widget.php:212
+msgid "Limit Text:"
+msgstr ""
+
+
+#: persian-art-recent-posts-widget.php:124
+msgid "Link Text:"
+msgstr ""
+
+
+#: persian-art-recent-posts-widget.php:130
+msgid "Link Url:"
+msgstr ""
+
+
+#: theme-option.php:4742
+msgid "Linkedin"
+msgstr ""
+
+
+#: theme-option.php:102
+msgid "Liteaccordion Slider"
+msgstr ""
+
+
+#: theme-option.php:2310
+msgid "Liteaccordion Slider Settings"
+msgstr ""
+
+
+#: theme-option.php:44
+msgid "Logo"
+msgstr ""
+
+
+#: theme-option.php:362
+msgid "Logo Image"
+msgstr ""
+
+
+#: theme-option.php:394
+msgid "Logo margin size"
+msgstr ""
+
+
+#: comments.php:36
+msgid "Mail (will not be published) "
+msgstr ""
+
+
+#: theme-option.php:4254
+msgid "Main (content & sidebar wrapper)"
+msgstr ""
+
+
+#: theme-option.php:125 theme-option.php:181
+msgid "Main Navigation"
+msgstr ""
+
+
+#: theme-option.php:2960
+msgid "Main Navigation Coloring"
+msgstr ""
+
+
+#: theme-option.php:4510
+msgid "Main Navigation Properties"
+msgstr ""
+
+
+#: theme-option.php:4562
+msgid "Main menu properties"
+msgstr ""
+
+
+#: theme-option.php:935
+msgid "Main navigation font"
+msgstr ""
+
+
+#: theme-option.php:4044
+msgid "Main navigation wrapper"
+msgstr ""
+
+
+#: theme-option.php:4569
+msgid "Main sub menu properties"
+msgstr ""
+
+
+#: theme-option.php:4675
+msgid "Margin from bottom"
+msgstr ""
+
+
+#: theme-option.php:4668
+msgid "Margin from edge"
+msgstr ""
+
+
+#: theme-option.php:250
+msgid "MediumAquaMarine"
+msgstr ""
+
+
+#: page-contact.php:240 persian-art-contact-widget.php:123
+msgid "Message"
+msgstr ""
+
+
+#: theme-option.php:2779
+msgid "Miscellaneous"
+msgstr ""
+
+
+#: archive.php:19
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+
+#: page-contact.php:226
+msgid "Name"
+msgstr ""
+
+
+#: persian-art-contact-widget.php:108
+msgid "Nam"
+msgstr ""
+
+
+#: comments.php:36
+msgid "Name "
+msgstr ""
+
+
+#: page-contact.php:64 persian-art-contact-widget.php:171
+msgid "Name: "
+msgstr ""
+
+
+#: comments.php:28
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+
+#: single.php:165 single.php:237 single.php:404
+msgid "Next"
+msgstr ""
+
+
+#: theme-option.php:87
+msgid "Nivo Slider"
+msgstr ""
+
+
+#: theme-option.php:1238
+msgid "Nivo Slider Settings"
+msgstr ""
+
+
+#: tag.php:89 archive.php:97 category.php:89 index.php:101 single.php:385
+#: search.php:87 author.php:107 page-blog.php:104
+msgid "No Comments"
+msgstr ""
+
+
+#: theme-option.php:479 theme-option.php:3989 theme-option.php:4031
+#: theme-option.php:4073 theme-option.php:4115 theme-option.php:4157
+#: theme-option.php:4199 theme-option.php:4241 theme-option.php:4283
+#: theme-option.php:4325 theme-option.php:4367 theme-option.php:4409
+#: page-option.php:138
+msgid "No Repeat"
+msgstr ""
+
+
+#: search.php:99
+msgid "No Results"
+msgstr ""
+
+
+#: author.php:116
+msgid "No posts by "
+msgstr ""
+
+
+#: theme-option.php:4554
+msgid "Normal"
+msgstr ""
+
+
+#: persian-art-flickr-wigdet.php:89
+msgid "Number of Photo"
+msgstr ""
+
+
+#: persian-art-twitter-wigdet.php:72
+msgid "Number of Tweet"
+msgstr ""
+
+
+#: persian-art-recent-posts-widget.php:118
+#: persian-art-post-cycle-widget.php:228
+msgid "Number of posts to show:"
+msgstr ""
+
+
+#: theme-option.php:251
+msgid "Olive"
+msgstr ""
+
+
+#: page-option.php:754
+msgid "Page Option"
+msgstr ""
+
+
+#: theme-option.php:41 theme-option.php:235
+msgid "Page Style"
+msgstr ""
+
+
+#: page-option.php:109
+msgid "Page background"
+msgstr ""
+
+
+#: page-option.php:240
+msgid "Page breadcrumb status"
+msgstr ""
+
+
+#: theme-option.php:286
+msgid "Page comment"
+msgstr ""
+
+
+#: page-option.php:253
+msgid "Page footer widgets status"
+msgstr ""
+
+
+#: page-option.php:227
+msgid "Page slogan status"
+msgstr ""
+
+
+#: theme-option.php:149 theme-option.php:2745
+msgid "Pagination"
+msgstr ""
+
+
+#: theme-option.php:3870
+msgid "Pagination Coloring"
+msgstr ""
+
+
+#: theme-option.php:252
+msgid "PaleVioletRed"
+msgstr ""
+
+
+#: theme-option.php:743
+msgid "Past tracking code"
+msgstr ""
+
+
+#: theme-option.php:4749
+msgid "Picasa"
+msgstr ""
+
+
+#: search.php:100
+msgid "Please feel free try again!"
+msgstr ""
+
+
+#: portfolio-option.php:307 page-option.php:31
+msgid "Portfolio Option"
+msgstr ""
+
+
+#: portfolio-option.php:29 page-option.php:434
+msgid "Portfolio Option &amp; Settings"
+msgstr ""
+
+
+#: page-option.php:587
+msgid "Portfolio text align"
+msgstr ""
+
+
+#: page-option.php:480
+msgid "Portfolio thumbnail size"
+msgstr ""
+
+
+#: page-option.php:437
+msgid "Portfolio thumbnail style"
+msgstr ""
+
+
+#: page-option.php:707
+msgid "Portuguese"
+msgstr ""
+
+
+#: theme-option.php:146
+msgid "Post / Portfolio"
+msgstr ""
+
+
+#: theme-option.php:3597
+msgid "Post / Portfolio coloring"
+msgstr ""
+
+
+#: post-option.php:249
+msgid "Post Option"
+msgstr ""
+
+
+#: post-option.php:29
+msgid "Post Option &amp; Settings"
+msgstr ""
+
+
+#: persian-art-post-cycle-widget.php:218
+msgid "Post Type:"
+msgstr ""
+
+
+#: persian-art-flickr-wigdet.php:103
+msgid "Preview Size"
+msgstr ""
+
+
+#: single.php:164 single.php:166 single.php:236 single.php:238 single.php:403
+#: single.php:405
+msgid "Previous"
+msgstr ""
+
+
+#: portfolio-option.php:123
+msgid "Project Url"
+msgstr ""
+
+
+#: single.php:199 single.php:217
+msgid "Project:"
+msgstr ""
+
+
+#: page-portfolio.php:209
+msgid "READ MORE"
+msgstr ""
+
+
+#: theme-option.php:4756
+msgid "RSS"
+msgstr ""
+
+
+#: page-option.php:671
+msgid "Recaptcha"
+msgstr ""
+
+
+#: persian-art-comments-widget.php:60
+msgid "Recent Comments"
+msgstr ""
+
+
+#: persian-art-recent-posts-widget.php:74
+#: persian-art-post-cycle-widget.php:189
+msgid "Recent Posts"
+msgstr ""
+
+
+#: author.php:21
+msgid "Recent Posts by "
+msgstr ""
+
+
+#: theme-option.php:253
+msgid "RedViolet"
+msgstr ""
+
+
+#: single.php:268
+msgid "Related Portfolio"
+msgstr ""
+
+
+#: single.php:427
+msgid "Related Post"
+msgstr ""
+
+
+#: theme-option.php:476 theme-option.php:3986 theme-option.php:4028
+#: theme-option.php:4070 theme-option.php:4112 theme-option.php:4154
+#: theme-option.php:4196 theme-option.php:4238 theme-option.php:4280
+#: theme-option.php:4322 theme-option.php:4364 theme-option.php:4406
+#: page-option.php:135
+msgid "Repeat"
+msgstr ""
+
+
+#: theme-option.php:477 theme-option.php:3987 theme-option.php:4029
+#: theme-option.php:4071 theme-option.php:4113 theme-option.php:4155
+#: theme-option.php:4197 theme-option.php:4239 theme-option.php:4281
+#: theme-option.php:4323 theme-option.php:4365 theme-option.php:4407
+#: page-option.php:136
+msgid "Repeat Horizontally"
+msgstr ""
+
+
+#: theme-option.php:478 theme-option.php:3988 theme-option.php:4030
+#: theme-option.php:4072 theme-option.php:4114 theme-option.php:4156
+#: theme-option.php:4198 theme-option.php:4240 theme-option.php:4282
+#: theme-option.php:4324 theme-option.php:4366 theme-option.php:4408
+#: page-option.php:137
+msgid "Repeat Vertically"
+msgstr ""
+
+
+#: theme-option.php:276
+msgid "Responsive"
+msgstr ""
+
+
+#: theme-option.php:2106
+msgid "Roller Coaster"
+msgstr ""
+
+
+#: theme-option.php:254
+msgid "RosyBrown"
+msgstr ""
+
+
+#: theme-option.php:99
+msgid "Roundabout Slider"
+msgstr ""
+
+
+#: theme-option.php:2092
+msgid "Roundabout Slider Settings"
+msgstr ""
+
+
+#: theme-option.php:255
+msgid "RoyalBlue"
+msgstr ""
+
+
+#: page-option.php:708
+msgid "Russian"
+msgstr ""
+
+
+#: page-contact.php:258 persian-art-contact-widget.php:136
+msgid "SUBMIT"
+msgstr ""
+
+
+#: search.php:15
+msgid "Search For: "
+msgstr ""
+
+
+#: persian-art-recent-posts-widget.php:105
+msgid "Select Category:"
+msgstr ""
+
+
+#: post-option.php:35 testimonial-option.php:33 portfolio-option.php:35
+#: page-option.php:55
+msgid "Select Sidebar"
+msgstr ""
+
+
+#: theme-option.php:4923
+msgid "Select desired footer style"
+msgstr ""
+
+
+#: portfolio-option.php:89 page-option.php:274
+msgid "Select display style"
+msgstr ""
+
+
+#: post-option.php:204 portfolio-option.php:262
+msgid "Select inside thumbnail type"
+msgstr ""
+
+
+#: theme-option.php:566
+msgid "Select left sidebar radius"
+msgstr ""
+
+
+#: slider-option.php:33
+msgid "Select link type"
+msgstr ""
+
+
+#: post-option.php:129 portfolio-option.php:186
+msgid "Select paginate place"
+msgstr ""
+
+
+#: theme-option.php:559
+msgid "Select right sidebar radius"
+msgstr ""
+
+
+#: theme-option.php:644
+msgid "Select sidebar for <strong>\"Archive Page</strong>"
+msgstr ""
+
+
+#: theme-option.php:664
+msgid "Select sidebar for <strong>\"Author Page\"</strong>"
+msgstr ""
+
+
+#: theme-option.php:624
+msgid "Select sidebar for <strong>\"Category Page\"</strong>"
+msgstr ""
+
+
+#: theme-option.php:704
+msgid "Select sidebar for <strong>\"Search Page\"</strong>"
+msgstr ""
+
+
+#: theme-option.php:604
+msgid "Select sidebar for <strong>\"Singleportfolio Page\"</strong>"
+msgstr ""
+
+
+#: theme-option.php:584
+msgid "Select sidebar for <strong>\"Singlepost Page\"</strong>"
+msgstr ""
+
+
+#: theme-option.php:684
+msgid "Select sidebar for <strong>\"Tag Page\"</strong>"
+msgstr ""
+
+
+#: theme-option.php:238
+msgid "Select skin"
+msgstr ""
+
+
+#: post-option.php:173 portfolio-option.php:217
+msgid "Select thumbnail type"
+msgstr ""
+
+
+#: post-option.php:115 portfolio-option.php:172
+msgid "Select title place"
+msgstr ""
+
+
+#: theme-option.php:779
+msgid "Set body font size"
+msgstr ""
+
+
+#: theme-option.php:3108
+msgid "Set color for 404 page heading & text"
+msgstr ""
+
+
+#: theme-option.php:3123
+msgid "Set color for 404 search"
+msgstr ""
+
+
+#: theme-option.php:3149
+msgid "Set color for Back to Top"
+msgstr ""
+
+
+#: theme-option.php:2843
+msgid "Set color for all headings"
+msgstr ""
+
+
+#: theme-option.php:3812
+msgid "Set color for author section"
+msgstr ""
+
+
+#: theme-option.php:3599
+msgid "Set color for blog elements"
+msgstr ""
+
+
+#: theme-option.php:2820
+msgid "Set color for body elements"
+msgstr ""
+
+
+#: theme-option.php:3078
+msgid "Set color for breadcrumb text"
+msgstr ""
+
+
+#: theme-option.php:3933
+msgid "Set color for comment elements"
+msgstr ""
+
+
+#: theme-option.php:3906
+msgid "Set color for contact / reply forms"
+msgstr ""
+
+
+#: theme-option.php:3500
+msgid "Set color for contact form widget"
+msgstr ""
+
+
+#: theme-option.php:3569
+msgid "Set color for copyright section"
+msgstr ""
+
+
+#: theme-option.php:3493
+msgid "Set color for flickr widget"
+msgstr ""
+
+
+#: theme-option.php:2896
+msgid "Set color for highlight"
+msgstr ""
+
+
+#: theme-option.php:2962
+msgid "Set color for main menu"
+msgstr ""
+
+
+#: theme-option.php:2973
+msgid "Set color for main menu items"
+msgstr ""
+
+
+#: theme-option.php:2862
+msgid "Set color for main sections"
+msgstr ""
+
+
+#: theme-option.php:3008
+msgid "Set color for main sub menus"
+msgstr ""
+
+
+#: theme-option.php:3872
+msgid "Set color for pagination"
+msgstr ""
+
+
+#: theme-option.php:3835
+msgid "Set color for pagination section"
+msgstr ""
+
+
+#: theme-option.php:3630
+msgid "Set color for portfolio elements"
+msgstr ""
+
+
+#: theme-option.php:3801
+msgid "Set color for portfolio filter"
+msgstr ""
+
+
+#: theme-option.php:3653
+msgid "Set color for portfolio styles"
+msgstr ""
+
+
+#: theme-option.php:3416
+msgid "Set color for post/portfolio/comment widgets"
+msgstr ""
+
+
+#: theme-option.php:3850
+msgid "Set color for related post section"
+msgstr ""
+
+
+#: theme-option.php:3056
+msgid "Set color for slogan text"
+msgstr ""
+
+
+#: theme-option.php:2940
+msgid "Set color for social network background"
+msgstr ""
+
+
+#: theme-option.php:3527
+msgid "Set color for tag/search/calendar widgets"
+msgstr ""
+
+
+#: theme-option.php:3459
+msgid "Set color for testimonial widget"
+msgstr ""
+
+
+#: theme-option.php:2877
+msgid "Set color for theme button"
+msgstr ""
+
+
+#: theme-option.php:3405
+msgid "Set color for titles"
+msgstr ""
+
+
+#: theme-option.php:2914
+msgid "Set color for top bar text"
+msgstr ""
+
+
+#: theme-option.php:3038
+msgid "Set color for top search"
+msgstr ""
+
+
+#: theme-option.php:3478
+msgid "Set color for twitter widget"
+msgstr ""
+
+
+#: theme-option.php:828
+msgid "Set font size for headings"
+msgstr ""
+
+
+#: theme-option.php:800
+msgid "Set footer heading font size"
+msgstr ""
+
+
+#: theme-option.php:3378
+msgid "Set general color"
+msgstr ""
+
+
+#: theme-option.php:786
+msgid "Set main navigation font size"
+msgstr ""
+
+
+#: theme-option.php:793
+msgid "Set sidebar heading font size"
+msgstr ""
+
+
+#: theme-option.php:814
+msgid "Set slogan font size"
+msgstr ""
+
+
+#: theme-option.php:821
+msgid "Set stunning text font size"
+msgstr ""
+
+
+#: theme-option.php:807
+msgid "Set widget title font size"
+msgstr ""
+
+
+#: page-option.php:179
+msgid "Show Slider"
+msgstr ""
+
+
+#: persian-art-comments-widget.php:60
+msgid "Show latest comments"
+msgstr ""
+
+
+#: persian-art-recent-posts-widget.php:74
+msgid "Show latest posts"
+msgstr ""
+
+
+#: persian-art-post-cycle-widget.php:189
+msgid "Show latest posts, portfolios and testimonials"
+msgstr ""
+
+
+#: theme-option.php:93
+msgid "Showcase Slider"
+msgstr ""
+
+
+#: theme-option.php:1669
+msgid "Showcase Slider Settings"
+msgstr ""
+
+
+#: theme-option.php:4657
+msgid "Side of \"back to top\""
+msgstr ""
+
+
+#: theme-option.php:53 theme-option.php:137 theme-option.php:4170
+msgid "Sidebar"
+msgstr ""
+
+
+#: theme-option.php:3169
+msgid "Sidebar Coloring"
+msgstr ""
+
+
+#: theme-option.php:523
+msgid "Sidebar Setting"
+msgstr ""
+
+
+#: theme-option.php:971
+msgid "Sidebar widgets title font"
+msgstr ""
+
+
+#: theme-option.php:3683
+msgid "Simple style"
+msgstr ""
+
+
+#: portfolio-option.php:113
+msgid "Skills needed"
+msgstr ""
+
+
+#: single.php:197 single.php:215
+msgid "Skills:"
+msgstr ""
+
+
+#: theme-option.php:256
+msgid "SkyBlue"
+msgstr ""
+
+
+#: slider-option.php:81
+msgid "Slider Option"
+msgstr ""
+
+
+#: slider-option.php:29
+msgid "Slider Option &amp; Settings"
+msgstr ""
+
+
+#: theme-option.php:1171
+msgid "Slider Settings"
+msgstr ""
+
+
+#: theme-option.php:84
+msgid "Slider Status"
+msgstr ""
+
+
+#: theme-option.php:1518
+msgid "Slider alignment"
+msgstr ""
+
+
+#: theme-option.php:2557
+msgid "Slider caption"
+msgstr ""
+
+
+#: theme-option.php:2691
+msgid "Slider effects"
+msgstr ""
+
+
+#: theme-option.php:1285
+msgid "Slider navigation"
+msgstr ""
+
+
+#: theme-option.php:1183
+msgid "Slider selection"
+msgstr ""
+
+
+#: theme-option.php:1173
+msgid "Slider status"
+msgstr ""
+
+
+#: theme-option.php:1691
+msgid "Slider thumbnails"
+msgstr ""
+
+
+#: theme-option.php:4086
+msgid "Slider wrapper"
+msgstr ""
+
+
+#: theme-option.php:1225
+msgid "SliderWrapper background color"
+msgstr ""
+
+
+#: theme-option.php:1214
+msgid "SliderWrapper paddings"
+msgstr ""
+
+
+#: theme-option.php:131 theme-option.php:184 theme-option.php:4585
+msgid "Slogan"
+msgstr ""
+
+
+#: theme-option.php:3054
+msgid "Slogan Coloring"
+msgstr ""
+
+
+#: theme-option.php:1044
+msgid "Slogan font"
+msgstr ""
+
+
+#: theme-option.php:4607
+msgid "Slogan speed"
+msgstr ""
+
+
+#: theme-option.php:4128
+msgid "Slogan wrapper"
+msgstr ""
+
+
+#: theme-option.php:4615
+msgid "Slogans"
+msgstr ""
+
+
+#: theme-option.php:4556
+msgid "Slow"
+msgstr ""
+
+
+#: theme-option.php:193 theme-option.php:4687
+msgid "Social Network"
+msgstr ""
+
+
+#: theme-option.php:4803
+msgid "Social Shares"
+msgstr ""
+
+
+#: theme-option.php:196
+msgid "Social Sharing"
+msgstr ""
+
+
+#: theme-option.php:4689
+msgid "Socual Class"
+msgstr ""
+
+
+#: page-option.php:709
+msgid "Spanish"
+msgstr ""
+
+
+#: theme-option.php:2101
+msgid "Square"
+msgstr ""
+
+
+#: theme-option.php:4763
+msgid "Stumble Upon"
+msgstr ""
+
+
+#: theme-option.php:3106
+msgid "Stunning Text Coloring"
+msgstr ""
+
+
+#: theme-option.php:1080
+msgid "Stunning text font"
+msgstr ""
+
+
+#: theme-option.php:3704
+msgid "Style1 & Style2"
+msgstr ""
+
+
+#: theme-option.php:4532
+msgid "Supersubs max width"
+msgstr ""
+
+
+#: theme-option.php:105
+msgid "TM Slider"
+msgstr ""
+
+
+#: theme-option.php:2523
+msgid "TM Slider Settings"
+msgstr ""
+
+
+#: tag.php:15
+msgid "Tag Archives: %s"
+msgstr ""
+
+
+#: single.php:200 single.php:218
+msgid "Tags:"
+msgstr ""
+
+
+#: theme-option.php:257
+msgid "Teal"
+msgstr ""
+
+
+#: theme-option.php:2107
+msgid "Tear Drop"
+msgstr ""
+
+
+#: testimonial-option.php:130
+msgid "Testimonial Option"
+msgstr ""
+
+
+#: testimonial-option.php:29
+msgid "Testimonial Option &amp; Settings"
+msgstr ""
+
+
+#: theme-option.php:2108
+msgid "The Juggler"
+msgstr ""
+
+
+#: theme-option.php:894 theme-option.php:930 theme-option.php:966
+#: theme-option.php:1003 theme-option.php:1039 theme-option.php:1075
+#: theme-option.php:1111
+msgid "The Sample Text"
+msgstr ""
+
+
+#: tag.php:99 archive.php:107 category.php:99
+msgid "There has been an error."
+msgstr ""
+
+
+#: comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+
+#: persian-art-flickr-wigdet.php:76 persian-art-recent-posts-widget.php:93
+#: persian-art-twitter-wigdet.php:60 persian-art-post-cycle-widget.php:206
+#: persian-art-contact-widget.php:161
+msgid "Title:"
+msgstr ""
+
+
+#: theme-option.php:122 theme-option.php:172
+msgid "Top Bar"
+msgstr ""
+
+
+#: theme-option.php:2912
+msgid "Top Bar Coloring"
+msgstr ""
+
+
+#: theme-option.php:175 theme-option.php:4464
+msgid "Top Information"
+msgstr ""
+
+
+#: theme-option.php:2938
+msgid "Top Information & Socials Coloring"
+msgstr ""
+
+
+#: theme-option.php:128 theme-option.php:178 theme-option.php:4491
+msgid "Top Search"
+msgstr ""
+
+
+#: theme-option.php:4426
+msgid "Top bar"
+msgstr ""
+
+
+#: theme-option.php:3960
+msgid "Top bar wrapper"
+msgstr ""
+
+
+#: theme-option.php:316
+msgid "Top header height"
+msgstr ""
+
+
+#: theme-option.php:4478
+msgid "Top information"
+msgstr ""
+
+
+#: theme-option.php:3036
+msgid "Top/404 Search Coloring"
+msgstr ""
+
+
+#: theme-option.php:729
+msgid "Tracking Code"
+msgstr ""
+
+
+#: theme-option.php:56
+msgid "Tracking Code & CSS"
+msgstr ""
+
+
+#: page-option.php:214
+msgid "Transparent background"
+msgstr ""
+
+
+#: theme-option.php:4770
+msgid "Tumblr"
+msgstr ""
+
+
+#: page-option.php:710
+msgid "Turkish"
+msgstr ""
+
+
+#: theme-option.php:4777
+msgid "Twitter"
+msgstr ""
+
+
+#: persian-art-twitter-wigdet.php:76
+msgid "Twitter Feed"
+msgstr ""
+
+
+#: persian-art-twitter-wigdet.php:36
+msgid "Twitter feed loading"
+msgstr ""
+
+
+#: theme-option.php:432
+msgid "Upload Your Favicon"
+msgstr ""
+
+
+#: slider-option.php:65
+msgid "Upload Your Image"
+msgstr ""
+
+
+#: theme-option.php:379
+msgid "Upload Your Logo"
+msgstr ""
+
+
+#: theme-option.php:461
+msgid "Upload Your body background"
+msgstr ""
+
+
+#: theme-option.php:3972 theme-option.php:4014 theme-option.php:4056
+#: theme-option.php:4098 theme-option.php:4140 theme-option.php:4182
+#: theme-option.php:4224 theme-option.php:4266 theme-option.php:4308
+#: theme-option.php:4350 theme-option.php:4392 page-option.php:121
+msgid "Upload your image"
+msgstr ""
+
+
+#: theme-option.php:4784
+msgid "Vimeo"
+msgstr ""
+
+
+#: page-portfolio.php:215
+msgid "WEBSITE"
+msgstr ""
+
+
+#: theme-option.php:2099
+msgid "Water Wheel"
+msgstr ""
+
+
+#: tag.php:100 archive.php:108 category.php:100
+msgid "We apologize for any inconvenience, please "
+msgstr ""
+
+
+#: comments.php:36
+msgid "Website "
+msgstr ""
+
+
+#: theme-option.php:222
+msgid "Welcome"
+msgstr ""
+
+
+#: theme-option.php:25
+msgid "When you apply the desired changes, press this button"
+msgstr ""
+
+
+#: theme-option.php:269
+msgid "Wide"
+msgstr ""
+
+
+#: theme-option.php:4338
+msgid "Widget section"
+msgstr ""
+
+
+#: single.php:415
+msgid "Written by "
+msgstr ""
+
+
+#: archive.php:21
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+
+#: theme-option.php:258
+msgid "YellowGreen"
+msgstr ""
+
+
+#: theme-option.php:4791
+msgid "You Tube"
+msgstr ""
+
+
+#: theme-option.php:4999
+msgid ""
+"You can choose between the <strong>\"right &amp; left\"</strong> style or "
+"<strong>\"middle\"</strong> style.<br />click on button, text input will "
+"appear."
+msgstr ""
+
+
+#: theme-option.php:748
+msgid ""
+"You can past your tracking code here to appear in your pages.<br />This is a "
+"JavaScript code that is something like this:<br /><code>&lt;script type="
+"\"text/javascript\"&gt; ... &lt;/script&gt;</code>"
+msgstr ""
+
+
+#: theme-option.php:4620
+msgid ""
+"You can write your slogan to appear.<br />slogans must be \"|\" separated "
+"like this:<br />slogan 1 | slogan 2 | etc ..."
+msgstr ""
+
+
+#: page-contact.php:64 persian-art-contact-widget.php:171
+msgid "You entered an invalid email address."
+msgstr ""
+
+
+#: page-contact.php:64 persian-art-contact-widget.php:171
+msgid "You forgot to enter your comments."
+msgstr ""
+
+
+#: page-contact.php:64 persian-art-contact-widget.php:171
+msgid "You forgot to enter your email address."
+msgstr ""
+
+
+#: page-contact.php:64 persian-art-contact-widget.php:171
+msgid "You forgot to enter your name."
+msgstr ""
+
+
+#: persian-art-flickr-wigdet.php:82
+msgid "Your Flickr User ID:"
+msgstr ""
+
+
+#: persian-art-twitter-wigdet.php:66
+msgid "Your Twitter User Name:"
+msgstr ""
+
+
+#: page-contact.php:64 persian-art-contact-widget.php:171
+msgid "\\n\\nComments: "
+msgstr ""
+
+
+#: page-contact.php:64 persian-art-contact-widget.php:171
+msgid "\\n\\nEmail: "
+msgstr ""
+
+
+#: persian-art-flickr-wigdet.php:117
+msgid "a simple flickr widget to demonstrate the Widget API"
+msgstr ""
+
+
+#: persian-art-twitter-wigdet.php:76
+msgid "a simple twitter widget"
+msgstr ""
+
+
+#: post-option.php:119 portfolio-option.php:176
+msgid "above image"
+msgstr ""
+
+
+#: theme-option.php:1201 page-option.php:198 page-option.php:291
+#: page-option.php:500
+msgid "all"
+msgstr ""
+
+
+#: theme-option.php:2791
+msgid "back"
+msgstr ""
+
+
+#: post-option.php:118 portfolio-option.php:175
+msgid "below image"
+msgstr ""
+
+
+#: theme-option.php:1194 page-option.php:191
+msgid "bgstretcher slider"
+msgstr ""
+
+
+#: page-option.php:694
+msgid "blackglass"
+msgstr ""
+
+
+#: theme-option.php:1882
+msgid "blindX"
+msgstr ""
+
+
+#: theme-option.php:1883
+msgid "blindY"
+msgstr ""
+
+
+#: theme-option.php:1884
+msgid "blindZ"
+msgstr ""
+
+
+#: theme-option.php:270
+msgid "block"
+msgstr ""
+
+
+#: theme-option.php:338
+msgid "body wrapper properties <small>(usefull for boxed layout)</small>"
+msgstr ""
+
+
+#: post-option.php:150 portfolio-option.php:207
+msgid "both left"
+msgstr ""
+
+
+#: post-option.php:149 portfolio-option.php:206
+msgid "both right"
+msgstr ""
+
+
+#: theme-option.php:1256
+msgid "boxRain"
+msgstr ""
+
+
+#: theme-option.php:1258
+msgid "boxRainGrow"
+msgstr ""
+
+
+#: theme-option.php:1259
+msgid "boxRainGrowReverse"
+msgstr ""
+
+
+#: theme-option.php:1257
+msgid "boxRainReverse"
+msgstr ""
+
+
+#: theme-option.php:1255
+msgid "boxRandom"
+msgstr ""
+
+
+#: theme-option.php:1407 theme-option.php:1593 theme-option.php:1802
+#: theme-option.php:2028 theme-option.php:2220 theme-option.php:2420
+#: theme-option.php:2617 page-option.php:593
+msgid "center"
+msgstr ""
+
+
+#: theme-option.php:2804
+msgid "center bottom"
+msgstr ""
+
+
+#: theme-option.php:2803
+msgid "center center"
+msgstr ""
+
+
+#: theme-option.php:2802
+msgid "center top"
+msgstr ""
+
+
+#: theme-option.php:2530
+msgid "centralExpand"
+msgstr ""
+
+
+#: page-option.php:695
+msgid "clean"
+msgstr ""
+
+
+#: theme-option.php:1511 theme-option.php:2477
+msgid "click"
+msgstr ""
+
+
+#: theme-option.php:323
+msgid ""
+"content wrapper margin & radius <small>(usefull for default layout)</small>"
+msgstr ""
+
+
+#: theme-option.php:1912
+msgid ""
+"controls whether the <strong>\"slide transitions occur simultaneously\"</"
+"strong>.<br /> some effects behave differently.<br />(such as blind, "
+"curtain, and zoom)"
+msgstr ""
+
+
+#: theme-option.php:1899
+msgid "cover"
+msgstr ""
+
+
+#: theme-option.php:1162
+msgid "create additional font.<br /> for delete items, click on \"x\" button."
+msgstr ""
+
+
+#: theme-option.php:556
+msgid ""
+"create additional sidebar.<br /> for delete items, click on \"x\" button."
+msgstr ""
+
+
+#: theme-option.php:1885
+msgid "curtainX"
+msgstr ""
+
+
+#: theme-option.php:1886
+msgid "curtainY"
+msgstr ""
+
+
+#: page-option.php:696
+msgid "custom"
+msgstr ""
+
+
+#: theme-option.php:1190 page-option.php:187
+msgid "cycle slider"
+msgstr ""
+
+
+#: theme-option.php:4694
+msgid "dark icon"
+msgstr ""
+
+
+#: theme-option.php:242 theme-option.php:867 theme-option.php:903
+#: theme-option.php:939 theme-option.php:975 theme-option.php:1012
+#: theme-option.php:1048 theme-option.php:1084 page-option.php:441
+#: page-option.php:591
+msgid "default"
+msgstr ""
+
+
+#: theme-option.php:2538
+msgid "diagonalExpand"
+msgstr ""
+
+
+#: theme-option.php:2537
+msgid "diagonalFade"
+msgstr ""
+
+
+#: page-option.php:247
+msgid ""
+"disable \"breadcrumb wrapper\" for this page.<br />usefull for create "
+"<strong>\"Front Page\"</strong>."
+msgstr ""
+
+
+#: page-option.php:260
+msgid ""
+"disable \"footer widgets section\" for this page.<br />usefull for create "
+"<strong>\"Front Page\"</strong>."
+msgstr ""
+
+
+#: page-option.php:234
+msgid ""
+"disable \"slogan wrapper\" for this page.<br />usefull for create <strong>"
+"\"Front Page\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:1512
+msgid "double click"
+msgstr ""
+
+
+#: page-option.php:732
+msgid ""
+"enter <strong>\"height\"</strong> for google map.<br />(by default 250 and "
+"350 when it is on top).<br />digits only, without any unit."
+msgstr ""
+
+
+#: theme-option.php:1246 theme-option.php:1677 theme-option.php:1887
+#: theme-option.php:2695
+msgid "fade"
+msgstr ""
+
+
+#: theme-option.php:2539
+msgid "fadeFromCenter"
+msgstr ""
+
+
+#: theme-option.php:2531
+msgid "fadeThree"
+msgstr ""
+
+
+#: theme-option.php:1888
+msgid "fadeZoom"
+msgstr ""
+
+
+#: theme-option.php:1245
+msgid "fold"
+msgstr ""
+
+
+#: theme-option.php:2708
+msgid "from bottom"
+msgstr ""
+
+
+#: theme-option.php:2711
+msgid "from bottom left"
+msgstr ""
+
+
+#: theme-option.php:2712
+msgid "from bottom right"
+msgstr ""
+
+
+#: theme-option.php:2705
+msgid "from left"
+msgstr ""
+
+
+#: theme-option.php:2706
+msgid "from right"
+msgstr ""
+
+
+#: theme-option.php:2707
+msgid "from top"
+msgstr ""
+
+
+#: theme-option.php:2709
+msgid "from top left"
+msgstr ""
+
+
+#: theme-option.php:2710
+msgid "from top right"
+msgstr ""
+
+
+#: portfolio-option.php:92 page-option.php:277
+msgid "full style"
+msgstr ""
+
+
+#: theme-option.php:2533
+msgid "gSlider"
+msgstr ""
+
+
+#: page-option.php:445
+msgid "gallery"
+msgstr ""
+
+
+#: page-contact.php:32 page-contact.php:49
+msgid "google map"
+msgstr ""
+
+
+#: theme-option.php:2542
+msgid "gorizontalLines"
+msgstr ""
+
+
+#: theme-option.php:1890
+msgid "growX"
+msgstr ""
+
+
+#: theme-option.php:1891
+msgid "growY"
+msgstr ""
+
+
+#: portfolio-option.php:93 page-option.php:278
+msgid "half style"
+msgstr ""
+
+
+#: theme-option.php:1522 theme-option.php:1702
+msgid "horizontally"
+msgstr ""
+
+
+#: theme-option.php:1298
+msgid ""
+"how show <strong>\"direction\"</strong>.<br />false - always visible, true - "
+"only on hover."
+msgstr ""
+
+
+#: theme-option.php:1675
+msgid "hslide"
+msgstr ""
+
+
+#: post-option.php:176 post-option.php:208 portfolio-option.php:220
+#: portfolio-option.php:266
+msgid "image"
+msgstr ""
+
+
+#: theme-option.php:488
+msgid ""
+"image attachment fix<br />when it is on background image is <strong>\"fixed"
+"\"</strong>.<br />only background image"
+msgstr ""
+
+
+#: theme-option.php:1188 page-option.php:185
+msgid "kwicks slider"
+msgstr ""
+
+
+#: theme-option.php:1406 theme-option.php:1592 theme-option.php:1801
+#: theme-option.php:2027 theme-option.php:2219 theme-option.php:2419
+#: theme-option.php:2616 theme-option.php:4662 theme-option.php:4981
+#: page-option.php:592
+msgid "left"
+msgstr ""
+
+
+#: theme-option.php:2801
+msgid "left bottom"
+msgstr ""
+
+
+#: theme-option.php:2800
+msgid "left center"
+msgstr ""
+
+
+#: theme-option.php:2799
+msgid "left top"
+msgstr ""
+
+
+#: theme-option.php:4693
+msgid "light icon"
+msgstr ""
+
+
+#: portfolio-option.php:233
+msgid "lightbox for full image"
+msgstr ""
+
+
+#: portfolio-option.php:234
+msgid "lightbox for picture"
+msgstr ""
+
+
+#: portfolio-option.php:235
+msgid "lightbox for video"
+msgstr ""
+
+
+#: slider-option.php:37
+msgid "ligtbox"
+msgstr ""
+
+
+#: portfolio-option.php:232
+msgid "link to custom url"
+msgstr ""
+
+
+#: portfolio-option.php:231
+msgid "link to post"
+msgstr ""
+
+
+#: slider-option.php:38
+msgid "link to url"
+msgstr ""
+
+
+#: slider-option.php:39
+msgid "link to video"
+msgstr ""
+
+
+#: theme-option.php:1192 page-option.php:189
+msgid "liteaccordion slider"
+msgstr ""
+
+
+#: post-option.php:71 testimonial-option.php:69 portfolio-option.php:71
+#: page-option.php:91
+msgid "main left"
+msgstr ""
+
+
+#: post-option.php:57 testimonial-option.php:55 portfolio-option.php:57
+#: page-option.php:77
+msgid "main right"
+msgstr ""
+
+
+#: theme-option.php:4678
+msgid ""
+"margin from bottom of window (by default 100px).<br />with \"px\" or in "
+"percent for ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:4671
+msgid ""
+"margin from left or right edge of body (by default 50px).<br />with \"px\" "
+"for ex. 200px"
+msgstr ""
+
+
+#: theme-option.php:1644
+msgid "max"
+msgstr ""
+
+
+#: theme-option.php:4982
+msgid "middle"
+msgstr ""
+
+
+#: theme-option.php:1645
+msgid "min"
+msgstr ""
+
+
+#: theme-option.php:1510 theme-option.php:2478
+msgid "mouse over"
+msgstr ""
+
+
+#: post-option.php:141 portfolio-option.php:198
+msgid "next & previous"
+msgstr ""
+
+
+#: theme-option.php:1187 page-option.php:184
+msgid "nivo slider"
+msgstr ""
+
+
+#: persian-art-flickr-wigdet.php:117
+msgid "no"
+msgstr ""
+
+
+#: slider-option.php:36
+msgid "no link"
+msgstr ""
+
+
+#: theme-option.php:4980
+msgid "no navigation"
+msgstr ""
+
+
+#: page-option.php:183
+msgid "no slider"
+msgstr ""
+
+
+#: theme-option.php:1903 theme-option.php:2698
+msgid "none"
+msgstr ""
+
+
+#: post-option.php:207 theme-option.php:2790 portfolio-option.php:265
+msgid "normal"
+msgstr ""
+
+
+#: page-option.php:182
+msgid "not set"
+msgstr ""
+
+
+#: page-option.php:558
+msgid ""
+"number of title character for per thumbnail.<br />(40 character by default)"
+msgstr ""
+
+
+#: page-option.php:336
+msgid ""
+"number of title character for per thumbnail.<br />(44 character by default)"
+msgstr ""
+
+
+#: post-option.php:132 portfolio-option.php:189
+msgid "on bottom"
+msgstr ""
+
+
+#: post-option.php:133 portfolio-option.php:190
+msgid "on top"
+msgstr ""
+
+
+#: theme-option.php:1745
+msgid "onhover"
+msgstr ""
+
+
+#: theme-option.php:1744
+msgid "onload"
+msgstr ""
+
+
+#: tag.php:102 archive.php:110 category.php:102
+msgid "or use the search form below."
+msgstr ""
+
+
+#: theme-option.php:1711
+msgid "outside-first"
+msgstr ""
+
+
+#: theme-option.php:1710
+msgid "outside-last"
+msgstr ""
+
+
+#: page-option.php:723
+msgid ""
+"paste your <strong>\"google map source\"</strong> here.<br />text like this:"
+"<br />http://maps.google.com/maps/ms?msa= ... output=embed"
+msgstr ""
+
+
+#: theme-option.php:512
+msgid ""
+"pattern attachment fix.<br />when it is on background image is <strong>"
+"\"fixed\"</strong>.<br />only pattern`s."
+msgstr ""
+
+
+#: page-option.php:529
+msgid "portfolio item per page"
+msgstr ""
+
+
+#: post-option.php:140 portfolio-option.php:197
+msgid "post name"
+msgstr ""
+
+
+#: theme-option.php:2642
+msgid ""
+"put <strong>\"title on bottom\"</strong> of the slider wrapper.<br />when it "
+"is on, caption text is hidden"
+msgstr ""
+
+
+#: theme-option.php:2245
+msgid ""
+"put <strong>\"title on top\"</strong> of the slider elements.<br />when it "
+"is on, caption text is hidden"
+msgstr ""
+
+
+#: theme-option.php:1244 theme-option.php:2543 theme-option.php:2792
+msgid "random"
+msgstr ""
+
+
+#: persian-art-recent-posts-widget.php:59
+msgid "read more"
+msgstr ""
+
+
+#: page-option.php:693
+msgid "red"
+msgstr ""
+
+
+#: page-option.php:221
+msgid ""
+"remove \"background color & padding\" for this page.<br />just works on "
+"\"empty page\".<br />usefull for create <strong>\"Front Page\"</strong>."
+msgstr ""
+
+
+#: tag.php:101 archive.php:109 category.php:101
+msgid "return to the home page"
+msgstr ""
+
+
+#: theme-option.php:1408 theme-option.php:1594 theme-option.php:1803
+#: theme-option.php:2029 theme-option.php:2221 theme-option.php:2421
+#: theme-option.php:2618 theme-option.php:4661 theme-option.php:4983
+#: page-option.php:594
+msgid "right"
+msgstr ""
+
+
+#: post-option.php:148 portfolio-option.php:205
+msgid "right & left"
+msgstr ""
+
+
+#: theme-option.php:2807
+msgid "right bottom"
+msgstr ""
+
+
+#: theme-option.php:2806
+msgid "right center"
+msgstr ""
+
+
+#: theme-option.php:2805
+msgid "right top"
+msgstr ""
+
+
+#: theme-option.php:1191 page-option.php:188
+msgid "roundabout slider"
+msgstr ""
+
+
+#: theme-option.php:1879
+msgid "scrollDown"
+msgstr ""
+
+
+#: theme-option.php:1880
+msgid "scrollHorz"
+msgstr ""
+
+
+#: theme-option.php:1876
+msgid "scrollLeft"
+msgstr ""
+
+
+#: theme-option.php:1877
+msgid "scrollRight"
+msgstr ""
+
+
+#: theme-option.php:1878
+msgid "scrollUp"
+msgstr ""
+
+
+#: theme-option.php:1881
+msgid "scrollVert"
+msgstr ""
+
+
+#: theme-option.php:2111
+msgid ""
+"select <strong>\"shape\"</strong> for animation.<br />some of them are not "
+"suitable for this theme, It`s your choice."
+msgstr ""
+
+
+#: portfolio-option.php:271
+msgid ""
+"select type of inside portfolio thumbnail. is used in single portfolio<br /"
+">when <strong>\"normal\"</strong> is selected, thumbnail and inside "
+"thumbnail are the same."
+msgstr ""
+
+
+#: post-option.php:213
+msgid ""
+"select type of inside post thumbnail. is used in single post<br />when "
+"<strong>\"normal\"</strong> is selected, thumbnail and inside thumbnail are "
+"the same."
+msgstr ""
+
+
+#: portfolio-option.php:225
+msgid ""
+"select type of port thumbnail.<br />when <strong>\"image\"</strong> is "
+"selected, featured image used as thumbnail."
+msgstr ""
+
+
+#: post-option.php:181
+msgid ""
+"select type of post thumbnail. is used in blog<br />when <strong>\"image\"</"
+"strong> is selected, featured image used as thumbnail."
+msgstr ""
+
+
+#: theme-option.php:1725
+msgid ""
+"set <strong>\"active border color\"</strong> for thumbnails.<br />use color "
+"name for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:1809
+msgid ""
+"set <strong>\"background color\"</strong> for caption.<br />use color name "
+"for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:2074
+msgid ""
+"set <strong>\"background color\"</strong> for cycle slider.<br />use color "
+"name for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:1852
+msgid ""
+"set <strong>\"background color\"</strong> for slider.<br />use color name "
+"for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:1729
+msgid ""
+"set <strong>\"background color\"</strong> for thumbnails.<br />use color "
+"name for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:2624
+msgid ""
+"set <strong>\"background-color\"</strong> for caption.<br />use color name "
+"for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:1721
+msgid ""
+"set <strong>\"border color\"</strong> for thumbnails.<br />use color name "
+"for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:4565
+msgid ""
+"set <strong>\"border radius\"</strong>.<br />leave it blank for use default."
+msgstr ""
+
+
+#: theme-option.php:353
+msgid ""
+"set <strong>\"bottom margin\"</strong> for body wrapper (0px by default)."
+"<br />leave it blank for original size.<br />with \"px\" for ex. 200px"
+msgstr ""
+
+
+#: theme-option.php:331
+msgid ""
+"set <strong>\"bottom margin\"</strong> for content wrapper (60px by default)."
+"<br />leave it blank for original size.<br />with \"px\" for ex. 200px"
+msgstr ""
+
+
+#: theme-option.php:405
+msgid ""
+"set <strong>\"bottom margin\"</strong> for logo (20px by default).<br />with "
+"\"px\" or in percent for ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:2571
+msgid ""
+"set <strong>\"bottom\"</strong> for caption (0 by default).<br />with \"px\" "
+"or in percent for ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:4549
+msgid ""
+"set <strong>\"delay\"</strong> in milliseconds that the mouse can remain "
+"outside a submenu without it closing (200 by default)."
+msgstr ""
+
+
+#: theme-option.php:2587
+msgid ""
+"set <strong>\"height\"</strong> for caption (auto by default).<br />with \"px"
+"\" or in percent for ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:390
+msgid ""
+"set <strong>\"height\"</strong> for logo.<br />leave it blank for original "
+"size.<br />with \"px\" or in percent for ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:1327
+msgid ""
+"set <strong>\"height\"</strong> for thumbnails (50px by default).<br />with "
+"\"px\" for ex. 200px"
+msgstr ""
+
+
+#: theme-option.php:320
+msgid ""
+"set <strong>\"height\"</strong> for top header (auto by default).<br />leave "
+"it blank for original size.<br />with \"px\" for ex. 200px"
+msgstr ""
+
+
+#: theme-option.php:467
+msgid ""
+"set <strong>\"horizontal status\"</strong>. (0 or center by default).<br /"
+">use text <strong>left</strong> or <strong>center</strong> or <strong>right</"
+"strong>.<br />use unit <strong>px</strong> or <strong>%</strong> etc. for "
+"ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:2469
+msgid ""
+"set <strong>\"item active border color\"</strong> for caption text.<br />use "
+"color name for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:2453
+msgid ""
+"set <strong>\"item active name color\"</strong> for caption text.<br />use "
+"color name for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:2461
+msgid ""
+"set <strong>\"item active number color\"</strong> for caption text.<br />use "
+"color name for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:2445
+msgid ""
+"set <strong>\"item background color\"</strong> for caption text.<br />use "
+"color name for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:2465
+msgid ""
+"set <strong>\"item border color\"</strong> for caption text.<br />use color "
+"name for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:2449
+msgid ""
+"set <strong>\"item name color\"</strong> for caption text.<br />use color "
+"name for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:2457
+msgid ""
+"set <strong>\"item number color\"</strong> for caption text.<br />use color "
+"name for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:401
+msgid ""
+"set <strong>\"left margin\"</strong> for logo (0px by default).<br />with "
+"\"px\" or in percent for ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:1365
+msgid ""
+"set <strong>\"left\"</strong> for caption (0 by default).<br />when \"left\" "
+"is set, \"\"right\" will be ignored.<br />with \"px\" or in percent for ex. "
+"200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:2575
+msgid ""
+"set <strong>\"left\"</strong> for caption (0 by default).<br />when \"left\" "
+"is set, \"right\" will be ignored.<br />with \"px\" or in percent for ex. "
+"200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:1343
+msgid ""
+"set <strong>\"left\"</strong> for thumbnails location (6px by default).<br /"
+">with \"px\" or in percent for ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:1579
+msgid ""
+"set <strong>\"link color\"</strong> for caption read more link.<br />use "
+"color name for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:1335
+msgid ""
+"set <strong>\"margin bottom\"</strong> for thumbnails (6px by default).<br /"
+">with \"px\" or in percent for ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:1331
+msgid ""
+"set <strong>\"margin right\"</strong> for thumbnails (6px by default).<br /"
+">with \"px\" or in percent for ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:4535
+msgid ""
+"set <strong>\"max width\"</strong> for supersubs plugin (27 by default).<br /"
+"><b><i>note: supersubs active when you set color for submenu and "
+"submenuitems</i></b>."
+msgstr ""
+
+
+#: theme-option.php:2965
+msgid ""
+"set <strong>\"menu background color\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2992
+msgid ""
+"set <strong>\"menu item background color\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3000
+msgid ""
+"set <strong>\"menu item current background color\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2996
+msgid ""
+"set <strong>\"menu item hover background color\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2976
+msgid ""
+"set <strong>\"menu item text color\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2984
+msgid ""
+"set <strong>\"menu item text current color\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:2980
+msgid ""
+"set <strong>\"menu item text hover color\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:2988
+msgid ""
+"set <strong>\"menu item text shadow color\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3004
+msgid ""
+"set <strong>\"menu item top-border color\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:2969
+msgid ""
+"set <strong>\"menu wrapper background color\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:1567
+msgid ""
+"set <strong>\"padding\"</strong> for caption (0 80px 0 0 by default).<br /"
+">with \"px\" or em for ex. 20px or 1em"
+msgstr ""
+
+
+#: theme-option.php:2595
+msgid ""
+"set <strong>\"padding\"</strong> for caption (15px by default).<br />with "
+"\"px\" or em for ex. 20px or 1em"
+msgstr ""
+
+
+#: theme-option.php:2591
+msgid ""
+"set <strong>\"radius\"</strong> for caption (0 by default).<br />with \"px\" "
+"or in percent for ex. 20px or 10%"
+msgstr ""
+
+
+#: theme-option.php:335
+msgid ""
+"set <strong>\"radius\"</strong> for content wrapper (20px by default).<br /"
+">leave it blank for original size.<br />with \"px\" for ex. 200px"
+msgstr ""
+
+
+#: theme-option.php:2579
+msgid ""
+"set <strong>\"right\"</strong> for caption.<br />when \"left\" is set, "
+"\"right\" will be ignored.<br />with \"px\" or in percent for ex. 200px or "
+"50%"
+msgstr ""
+
+
+#: theme-option.php:3011
+msgid ""
+"set <strong>\"sub-menu background color\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:4572
+msgid ""
+"set <strong>\"sub-menu border radius\"</strong>.<br />leave it blank for use "
+"default."
+msgstr ""
+
+
+#: theme-option.php:3015
+msgid ""
+"set <strong>\"sub-menu bottom border color\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3027
+msgid ""
+"set <strong>\"sub-menu item background color\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:4576
+msgid ""
+"set <strong>\"sub-menu item border radius\"</strong>.<br />leave it blank "
+"for use default."
+msgstr ""
+
+
+#: theme-option.php:3019
+msgid ""
+"set <strong>\"sub-menu item text color\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3023
+msgid ""
+"set <strong>\"sub-menu item text hover color\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2607
+msgid ""
+"set <strong>\"text color\"</strong> for caption text.<br />use color name "
+"for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:2611
+msgid ""
+"set <strong>\"text shadow color\"</strong> for caption text (no default)."
+"<br />use color name for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:2599
+msgid ""
+"set <strong>\"title color\"</strong> for caption title.<br />use color name "
+"for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:1784
+msgid ""
+"set <strong>\"title color\"</strong> for caption title.<br />use color name "
+"for ex. blue<br />use hex color for ex #ff0000<"
+msgstr ""
+
+
+#: theme-option.php:2603
+msgid ""
+"set <strong>\"title shadow color\"</strong> for caption title (no default)."
+"<br />use color name for ex. blue<br />use hex color for ex #ff0000"
+msgstr ""
+
+
+#: theme-option.php:349
+msgid ""
+"set <strong>\"top margin\"</strong> for body wrapper (0px by default).<br /"
+">leave it blank for original size.<br />with \"px\" for ex. 200px"
+msgstr ""
+
+
+#: theme-option.php:327
+msgid ""
+"set <strong>\"top margin\"</strong> for content wrapper (60px by default)."
+"<br />leave it blank for original size.<br />with \"px\" for ex. 200px"
+msgstr ""
+
+
+#: theme-option.php:397
+msgid ""
+"set <strong>\"top margin\"</strong> for logo (20px by default).<br />with "
+"\"px\" or in percent for ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:2567
+msgid ""
+"set <strong>\"top\"</strong> for caption.<br />with \"px\" or in percent for "
+"ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:1339
+msgid ""
+"set <strong>\"top\"</strong> for thumbnails location (6px by default).<br /"
+">with \"px\" or in percent for ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:471
+msgid ""
+"set <strong>\"vertical status\"</strong>. (0 or center by default).<br />use "
+"text <strong>top</strong> or <strong>center</strong> or <strong>bottom</"
+"strong>.<br />use unit <strong>px</strong> or <strong>%</strong> etc. for "
+"ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:1705
+msgid "set <strong>\"vertically aligment\"</strong> for thumbnails."
+msgstr ""
+
+
+#: theme-option.php:1319
+msgid ""
+"set <strong>\"vertically position\"</strong> for thumbnails.<br />when it is "
+"on thumbnails will be vertically"
+msgstr ""
+
+
+#: theme-option.php:2583
+msgid ""
+"set <strong>\"width\"</strong> for caption (100% by default).<br />with \"px"
+"\" or in percent for ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:386
+msgid ""
+"set <strong>\"width\"</strong> for logo.<br />leave it blank for original "
+"size.<br />with \"px\" or in percent for ex. 200px or 50%"
+msgstr ""
+
+
+#: theme-option.php:1323
+msgid ""
+"set <strong>\"width\"</strong> for thumbnails (90px by default).<br />with "
+"\"px\" for ex. 200px"
+msgstr ""
+
+
+#: theme-option.php:3111
+msgid ""
+"set color for <strong>\"404 page heading\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3130
+msgid ""
+"set color for <strong>\"404 page search background\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3138
+msgid ""
+"set color for <strong>\"404 page search border\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3134
+msgid ""
+"set color for <strong>\"404 page search icon background\"</strong>.<br />use "
+"name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3126
+msgid ""
+"set color for <strong>\"404 page search text\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3119
+msgid ""
+"set color for <strong>\"404 page text shadow\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3115
+msgid ""
+"set color for <strong>\"404 page text\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3827
+msgid ""
+"set color for <strong>\"author background\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3831
+msgid ""
+"set color for <strong>\"author border\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3819
+msgid ""
+"set color for <strong>\"author heading\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3823
+msgid ""
+"set color for <strong>\"author link\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3815
+msgid ""
+"set color for <strong>\"author text\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3160
+msgid ""
+"set color for <strong>\"back to top arrow\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3152
+msgid ""
+"set color for <strong>\"back to top background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3156
+msgid ""
+"set color for <strong>\"back to top border\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3879
+msgid ""
+"set color for <strong>\"background\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3401
+msgid ""
+"set color for <strong>\"bottom borders\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3093
+msgid ""
+"set color for <strong>\"breadcrumb background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3097
+msgid ""
+"set color for <strong>\"breadcrumb border\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3089
+msgid ""
+"set color for <strong>\"breadcrumb link and hover\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3085
+msgid ""
+"set color for <strong>\"breadcrumb shadow\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3081
+msgid ""
+"set color for <strong>\"breadcrumb\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3558
+msgid ""
+"set color for <strong>\"calendar active days background\"</strong>.<br />use "
+"name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3944
+msgid ""
+"set color for <strong>\"comments background\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3948
+msgid ""
+"set color for <strong>\"comments border\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3940
+msgid ""
+"set color for <strong>\"comments link\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3936
+msgid ""
+"set color for <strong>\"comments text\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3507
+msgid ""
+"set color for <strong>\"contact form background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3511
+msgid ""
+"set color for <strong>\"contact form border\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3523
+msgid ""
+"set color for <strong>\"contact form button background\"</strong>.<br />use "
+"name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3519
+msgid ""
+"set color for <strong>\"contact form button text\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3515
+msgid ""
+"set color for <strong>\"contact form shadow\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3503
+msgid ""
+"set color for <strong>\"contact form text\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3913
+msgid ""
+"set color for <strong>\"contact/reply form background\"</strong>.<br />use "
+"name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3917
+msgid ""
+"set color for <strong>\"contact/reply form border\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3929
+msgid ""
+"set color for <strong>\"contact/reply form button background\"</strong>.<br /"
+">use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3925
+msgid ""
+"set color for <strong>\"contact/reply form button text\"</strong>.<br />use "
+"name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3921
+msgid ""
+"set color for <strong>\"contact/reply form shadow\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3909
+msgid ""
+"set color for <strong>\"contact/reply form text\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2869
+msgid ""
+"set color for <strong>\"content wrapper background\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3887
+msgid ""
+"set color for <strong>\"current-item background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3883
+msgid ""
+"set color for <strong>\"current-item text\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3439
+msgid ""
+"set color for <strong>\"custom widgets date & author background\"</strong>."
+"<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3423
+msgid ""
+"set color for <strong>\"custom widgets title hover\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3419
+msgid ""
+"set color for <strong>\"custom widgets title\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3626
+msgid ""
+"set color for <strong>\"date background\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3622
+msgid ""
+"set color for <strong>\"date text\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3677
+msgid ""
+"set color for <strong>\"default background\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3681
+msgid ""
+"set color for <strong>\"default border\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3673
+msgid ""
+"set color for <strong>\"default button background\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3669
+msgid ""
+"set color for <strong>\"default button text\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3661
+msgid ""
+"set color for <strong>\"default category\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3657
+msgid ""
+"set color for <strong>\"default heading\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3665
+msgid ""
+"set color for <strong>\"default text\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3645
+msgid ""
+"set color for <strong>\"details date background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3641
+msgid ""
+"set color for <strong>\"details date text\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3649
+msgid ""
+"set color for <strong>\"details icon background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3637
+msgid ""
+"set color for <strong>\"details titles\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3808
+msgid ""
+"set color for <strong>\"filter active text\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3804
+msgid ""
+"set color for <strong>\"filter text\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3496
+msgid ""
+"set color for <strong>\"flickr image background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2873
+msgid ""
+"set color for <strong>\"footer wrapper background\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3633
+msgid ""
+"set color for <strong>\"frame background\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3447
+msgid ""
+"set color for <strong>\"frame shadow\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3777
+msgid ""
+"set color for <strong>\"gallery border background\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3797
+msgid ""
+"set color for <strong>\"gallery border border\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3793
+msgid ""
+"set color for <strong>\"gallery border category\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3773
+msgid ""
+"set color for <strong>\"gallery border heading shadow\"</strong>.<br />use "
+"name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3769
+msgid ""
+"set color for <strong>\"gallery border heading\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3781
+msgid ""
+"set color for <strong>\"gallery border icon background\"</strong>.<br />use "
+"name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3785
+msgid ""
+"set color for <strong>\"gallery border icon hover background\"</strong>.<br /"
+">use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3789
+msgid ""
+"set color for <strong>\"gallery border icon shadow\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3744
+msgid ""
+"set color for <strong>\"gallery no-border background\"</strong>.<br />use "
+"name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3764
+msgid ""
+"set color for <strong>\"gallery no-border category background\"</strong>."
+"<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3760
+msgid ""
+"set color for <strong>\"gallery no-border category\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3740
+msgid ""
+"set color for <strong>\"gallery no-border heading shadow\"</strong>.<br /"
+">use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3736
+msgid ""
+"set color for <strong>\"gallery no-border heading\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3748
+msgid ""
+"set color for <strong>\"gallery no-border icon background\"</strong>.<br /"
+">use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3752
+msgid ""
+"set color for <strong>\"gallery no-border icon hover background\"</strong>."
+"<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3756
+msgid ""
+"set color for <strong>\"gallery no-border icon shadow\"</strong>.<br />use "
+"name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2865
+msgid ""
+"set color for <strong>\"header wrapper background\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2858
+msgid ""
+"set color for <strong>\"heading colored line\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2854
+msgid ""
+"set color for <strong>\"heading hovered\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:2850
+msgid ""
+"set color for <strong>\"heading shadow\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:2846
+msgid ""
+"set color for <strong>\"heading\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2903
+msgid ""
+"set color for <strong>\"highlight background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2899
+msgid ""
+"set color for <strong>\"highlight\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3194
+msgid ""
+"set color for <strong>\"horizontal borders\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3895
+msgid ""
+"set color for <strong>\"hovered-item background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3891
+msgid ""
+"set color for <strong>\"hovered-item text\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3614
+msgid ""
+"set color for <strong>\"info background\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3618
+msgid ""
+"set color for <strong>\"info icon background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3610
+msgid ""
+"set color for <strong>\"info link\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3606
+msgid ""
+"set color for <strong>\"info text\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3588
+msgid ""
+"set color for <strong>\"link hover\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3397
+msgid ""
+"set color for <strong>\"link hovered\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3584
+msgid "set color for <strong>\"link\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3846
+msgid ""
+"set color for <strong>\"pagination background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3842
+msgid ""
+"set color for <strong>\"pagination text hover\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3838
+msgid ""
+"set color for <strong>\"pagination text\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3435
+msgid ""
+"set color for <strong>\"recent comment author\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3431
+msgid ""
+"set color for <strong>\"recent portfolio date\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3455
+msgid ""
+"set color for <strong>\"recent post background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3427
+msgid ""
+"set color for <strong>\"recent post date\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3451
+msgid ""
+"set color for <strong>\"recent post text\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3857
+msgid ""
+"set color for <strong>\"related post thumbnail background\"</strong>.<br /"
+">use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3861
+msgid ""
+"set color for <strong>\"related post thumbnail icon background\"</strong>."
+"<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3853
+msgid ""
+"set color for <strong>\"related post thumbnail text\"</strong>.<br />use "
+"name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3546
+msgid ""
+"set color for <strong>\"search background\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3554
+msgid ""
+"set color for <strong>\"search border\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3550
+msgid ""
+"set color for <strong>\"search icon background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3542
+msgid ""
+"set color for <strong>\"search text\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3198
+msgid ""
+"set color for <strong>\"sidebar divider\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3702
+msgid ""
+"set color for <strong>\"simple button background\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3698
+msgid ""
+"set color for <strong>\"simple button text\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3694
+msgid ""
+"set color for <strong>\"simple category\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3690
+msgid ""
+"set color for <strong>\"simple date background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3686
+msgid ""
+"set color for <strong>\"simple date\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:1446
+msgid ""
+"set color for <strong>\"slider background\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3067
+msgid ""
+"set color for <strong>\"slogan background\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3063
+msgid ""
+"set color for <strong>\"slogan shadow\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3059
+msgid "set color for <strong>\"slogan\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2943
+msgid ""
+"set color for <strong>\"social icon background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2947
+msgid ""
+"set color for <strong>\"social icon hover background\"</strong>.<br />use "
+"name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2951
+msgid ""
+"set color for <strong>\"social network background\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3723
+msgid ""
+"set color for <strong>\"style1 & style2 background\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3731
+msgid ""
+"set color for <strong>\"style1 & style2 button background\"</strong>.<br /"
+">use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3727
+msgid ""
+"set color for <strong>\"style1 & style2 button text\"</strong>.<br />use "
+"name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3715
+msgid ""
+"set color for <strong>\"style1 & style2 category\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3719
+msgid ""
+"set color for <strong>\"style1 & style2 text\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3711
+msgid ""
+"set color for <strong>\"style1-style2 heading background\"</strong>.<br /"
+">use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3707
+msgid ""
+"set color for <strong>\"style1-style2 heading\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3534
+msgid ""
+"set color for <strong>\"tag background\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3538
+msgid ""
+"set color for <strong>\"tag border\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3530
+msgid "set color for <strong>\"tag\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3466
+msgid ""
+"set color for <strong>\"testimonial background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3474
+msgid ""
+"set color for <strong>\"testimonial image background\"</strong>.<br />use "
+"name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3470
+msgid ""
+"set color for <strong>\"testimonial navigation background\"</strong>.<br /"
+">use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3462
+msgid ""
+"set color for <strong>\"testimonial text\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3580
+msgid ""
+"set color for <strong>\"text shadow\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3875
+msgid "set color for <strong>\"text\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2884
+msgid ""
+"set color for <strong>\"theme button background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2892
+msgid ""
+"set color for <strong>\"theme button hover background\"</strong>.<br />use "
+"name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2888
+msgid ""
+"set color for <strong>\"theme button hover text\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2880
+msgid ""
+"set color for <strong>\"theme button text\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3213
+msgid ""
+"set color for <strong>\"title background color\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3221
+msgid ""
+"set color for <strong>\"title bottom border color\"</strong>.<br />use name "
+"or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3412
+msgid ""
+"set color for <strong>\"title shadow\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3217
+msgid ""
+"set color for <strong>\"title top border color\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3408
+msgid "set color for <strong>\"title\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2917
+msgid ""
+"set color for <strong>\"top bar background\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:2929
+msgid ""
+"set color for <strong>\"top bar link and hover\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:2925
+msgid ""
+"set color for <strong>\"top bar text shadow\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:2921
+msgid ""
+"set color for <strong>\"top bar text\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3045
+msgid ""
+"set color for <strong>\"top search background\"</strong>.<br />use name or "
+"hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3041
+msgid ""
+"set color for <strong>\"top search text\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3485
+msgid ""
+"set color for <strong>\"twitter background\"</strong>.<br />use name or hex "
+"etc...."
+msgstr ""
+
+
+#: theme-option.php:3489
+msgid ""
+"set color for <strong>\"twitter link\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:3481
+msgid ""
+"set color for <strong>\"twitter text\"</strong>.<br />use name or hex etc...."
+msgstr ""
+
+
+#: theme-option.php:782
+msgid ""
+"set font size for <strong>\"body\"</strong>. (12px by default)<br />use \"px"
+"\" or \"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+
+#: theme-option.php:803
+msgid ""
+"set font size for <strong>\"footer heading\"</strong>. (14px by default)<br /"
+">use \"px\" or \"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+
+#: theme-option.php:789
+msgid ""
+"set font size for <strong>\"main navigation\"</strong>. (14px by default)"
+"<br />use \"px\" or \"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+
+#: theme-option.php:796
+msgid ""
+"set font size for <strong>\"sidebar heading\"</strong>. (16px by default)"
+"<br />use \"px\" or \"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+
+#: theme-option.php:817
+msgid ""
+"set font size for <strong>\"slogan\"</strong>. (26px by default)<br />use "
+"\"px\" or \"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+
+#: theme-option.php:824
+msgid ""
+"set font size for <strong>\"stunning text\"</strong>. (22px by default)<br /"
+">use \"px\" or \"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+
+#: theme-option.php:810
+msgid ""
+"set font size for <strong>\"widgets title\"</strong>. (13px by default)<br /"
+">use \"px\" or \"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+
+#: theme-option.php:831
+msgid ""
+"set font-size for <strong>\"h1\"</strong>. (24px by default)<br />use \"px\" "
+"or \"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+
+#: theme-option.php:835
+msgid ""
+"set font-size for <strong>\"h2\"</strong>. (20px by default)<br />use \"px\" "
+"or \"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+
+#: theme-option.php:839
+msgid ""
+"set font-size for <strong>\"h3\"</strong>. (16px by default)<br />use \"px\" "
+"or \"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+
+#: theme-option.php:843
+msgid ""
+"set font-size for <strong>\"h4\"</strong>. (14px by default)<br />use \"px\" "
+"or \"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+
+#: theme-option.php:847
+msgid ""
+"set font-size for <strong>\"h5\"</strong>. (13px by default)<br />use \"px\" "
+"or \"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+
+#: theme-option.php:851
+msgid ""
+"set font-size for <strong>\"h6\"</strong>. (12px by default)<br />use \"px\" "
+"or \"em\" or other unit. for ex. 36px or 2em"
+msgstr ""
+
+
+#: theme-option.php:569
+msgid ""
+"set radius for <strong>\"left sidebar\"</strong>.<br />It is used when you "
+"set the background color.<br />use \"px\" or \"%\" etc. for ex. 20px"
+msgstr ""
+
+
+#: theme-option.php:562
+msgid ""
+"set radius for <strong>\"right sidebar\"</strong>.<br />It is used when you "
+"set the background color.<br />use \"px\" or \"%\" etc. for ex. 20px"
+msgstr ""
+
+
+#: theme-option.php:4703
+msgid ""
+"set url for<strong>\"Delicious\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+
+#: theme-option.php:4710
+msgid ""
+"set url for<strong>\"Deviant Art\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+
+#: theme-option.php:4717
+msgid ""
+"set url for<strong>\"Digg\"</strong>.<br />leave it blank if you want remove "
+"it."
+msgstr ""
+
+
+#: theme-option.php:4724
+msgid ""
+"set url for<strong>\"Face Book\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+
+#: theme-option.php:4731
+msgid ""
+"set url for<strong>\"Flickr\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+
+#: theme-option.php:4738
+msgid ""
+"set url for<strong>\"Lastfm\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+
+#: theme-option.php:4745
+msgid ""
+"set url for<strong>\"Linkedin\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+
+#: theme-option.php:4752
+msgid ""
+"set url for<strong>\"Picasa\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+
+#: theme-option.php:4759
+msgid ""
+"set url for<strong>\"RSS\"</strong>.<br />leave it blank if you want remove "
+"it."
+msgstr ""
+
+
+#: theme-option.php:4766
+msgid ""
+"set url for<strong>\"Stumble Upon\"</strong>.<br />leave it blank if you "
+"want remove it."
+msgstr ""
+
+
+#: theme-option.php:4773
+msgid ""
+"set url for<strong>\"Tumblr\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+
+#: theme-option.php:4780
+msgid ""
+"set url for<strong>\"Twitter\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+
+#: theme-option.php:4787
+msgid ""
+"set url for<strong>\"Vimeo\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+
+#: theme-option.php:4794
+msgid ""
+"set url for<strong>\"You Tube\"</strong>.<br />leave it blank if you want "
+"remove it."
+msgstr ""
+
+
+#: theme-option.php:1746
+msgid "show"
+msgstr ""
+
+
+#: theme-option.php:580
+msgid ""
+"show or hide divider between sidebar and content.<br />for set divider color "
+"go to coloring."
+msgstr ""
+
+
+#: theme-option.php:4901
+msgid ""
+"show or hide footer completely.<br />this section includes <strong>\"widget "
+"section\"</strong> and <strong>\"copyright section\"</strong>"
+msgstr ""
+
+
+#: theme-option.php:1179
+msgid ""
+"show or hide slider for normal page.<br />you can select this option for "
+"Pages that you create later."
+msgstr ""
+
+
+#: page-option.php:114
+msgid "show or hide your desired background."
+msgstr ""
+
+
+#: theme-option.php:1618
+msgid ""
+"show/hide <strong>\"content position\"</strong>.<br />show caption content "
+"below caption title."
+msgstr ""
+
+
+#: theme-option.php:1625
+msgid ""
+"show/hide <strong>\"stepped caption\"</strong>.<br />show caption like as "
+"stair."
+msgstr ""
+
+
+#: theme-option.php:1189 page-option.php:186
+msgid "showcase slider"
+msgstr ""
+
+
+#: theme-option.php:1902
+msgid "shuffle"
+msgstr ""
+
+
+#: page-option.php:442
+msgid "simple"
+msgstr ""
+
+
+#: theme-option.php:2696
+msgid "simple slide"
+msgstr ""
+
+
+#: theme-option.php:2532
+msgid "simpleFade"
+msgstr ""
+
+
+#: theme-option.php:1247
+msgid "sliceDown"
+msgstr ""
+
+
+#: theme-option.php:1248
+msgid "sliceDownLeft"
+msgstr ""
+
+
+#: theme-option.php:1249
+msgid "sliceUp"
+msgstr ""
+
+
+#: theme-option.php:1251
+msgid "sliceUpDown"
+msgstr ""
+
+
+#: theme-option.php:1252
+msgid "sliceUpDownLeft"
+msgstr ""
+
+
+#: theme-option.php:1250
+msgid "sliceUpLeft"
+msgstr ""
+
+
+#: theme-option.php:2549
+msgid ""
+"slide <strong>\"transition speed\"</strong> (ms) (10000 by default).<br /"
+">for zoomer effect must be rather than 4000"
+msgstr ""
+
+
+#: theme-option.php:2535
+msgid "slideFromLeft"
+msgstr ""
+
+
+#: theme-option.php:2536
+msgid "slideFromTop"
+msgstr ""
+
+
+#: theme-option.php:1254
+msgid "slideInLeft"
+msgstr ""
+
+
+#: theme-option.php:1253
+msgid "slideInRight"
+msgstr ""
+
+
+#: theme-option.php:1892
+msgid "slideX"
+msgstr ""
+
+
+#: theme-option.php:1893
+msgid "slideY"
+msgstr ""
+
+
+#: post-option.php:178 post-option.php:210 portfolio-option.php:222
+#: portfolio-option.php:268
+msgid "slider"
+msgstr ""
+
+
+#: theme-option.php:2714
+msgid ""
+"specify <strong>\"Slide Direction\"</strong> parameter.<br />choose top "
+"right, top left, bottom right, bottom left when \"superSlide\" is selected "
+"for effect."
+msgstr ""
+
+
+#: theme-option.php:1635
+msgid ""
+"sticky for kwick slides<br />one kwick will <strong>\"always be expanded\"</"
+"strong> if true."
+msgstr ""
+
+
+#: page-option.php:443
+msgid "style 1"
+msgstr ""
+
+
+#: page-option.php:444
+msgid "style 2"
+msgstr ""
+
+
+#: theme-option.php:2697
+msgid "super slide"
+msgstr ""
+
+
+#: theme-option.php:5001
+msgid "text on <strong>\"left\"</strong> Side"
+msgstr ""
+
+
+#: theme-option.php:5009
+msgid "text on <strong>\"middle\"</strong>"
+msgstr ""
+
+
+#: theme-option.php:5005
+msgid "text on <strong>\"right\"</strong> Side"
+msgstr ""
+
+
+#: theme-option.php:1639
+msgid ""
+"the <strong>\"initially expanded kwick\"</strong> (if and only if sticky is "
+"true).<br />default is 0. (index of slide)"
+msgstr ""
+
+
+#: theme-option.php:1651
+msgid ""
+"the <strong>\"value of max or min\"</strong> of width or height.<br />by "
+"default in horizontally max is 704 and min is 59<br />by default in "
+"vertically max is 204 and min is 44"
+msgstr ""
+
+
+#: theme-option.php:1647
+msgid ""
+"the width or height of a <strong>\"fully expanded or collapsed\"</strong> "
+"kwick element. in vertically max or min refers to the height<br />otherwise "
+"it is the width."
+msgstr ""
+
+
+#: theme-option.php:264
+msgid "theme style"
+msgstr ""
+
+
+#: theme-option.php:2063
+msgid ""
+"this causes the slides to be shown in <strong>\"random order\"</strong>, "
+"rather than sequential."
+msgstr ""
+
+
+#: theme-option.php:1193 page-option.php:190
+msgid "tm slider"
+msgstr ""
+
+
+#: theme-option.php:1894
+msgid "toss"
+msgstr ""
+
+
+#: theme-option.php:1898
+msgid "turnDown"
+msgstr ""
+
+
+#: theme-option.php:1895
+msgid "turnLeft"
+msgstr ""
+
+
+#: theme-option.php:1896
+msgid "turnRight"
+msgstr ""
+
+
+#: theme-option.php:1897
+msgid "turnUp"
+msgstr ""
+
+
+#: theme-option.php:764
+msgid "type custom css"
+msgstr ""
+
+
+#: theme-option.php:1900
+msgid "uncover"
+msgstr ""
+
+
+#: page-option.php:741
+msgid ""
+"use this option for <strong>\"google map location\"</strong>.<br /> when it "
+"is on google map appear on top of the content."
+msgstr ""
+
+
+#: page-option.php:677
+msgid "use this option for <strong>\"recaptcha on/off\"</strong>."
+msgstr ""
+
+
+#: theme-option.php:4986
+msgid ""
+"use this option for show or hide footer navigation.<br />Do not add any text "
+"when using navigation in desired section."
+msgstr ""
+
+
+#: theme-option.php:2534
+msgid "vSlider"
+msgstr ""
+
+
+#: theme-option.php:1523 theme-option.php:1703
+msgid "vertically"
+msgstr ""
+
+
+#: theme-option.php:2541
+msgid "vertivalLines"
+msgstr ""
+
+
+#: post-option.php:177 post-option.php:209 portfolio-option.php:221
+#: portfolio-option.php:267
+msgid "video"
+msgstr ""
+
+
+#: theme-option.php:1676
+msgid "vslide"
+msgstr ""
+
+
+#: theme-option.php:313
+msgid ""
+"when it is on, your custom style will be used.<br />include your desired "
+"options in coloring section."
+msgstr ""
+
+
+#: page-option.php:373
+msgid ""
+"when it is on. content is fully used.<br />use this option for show complete "
+"content or excerpt on blog page."
+msgstr ""
+
+
+#: page-option.php:412
+msgid ""
+"when it is on. link is used.<br />use this option for show or hide continue "
+"reading link."
+msgstr ""
+
+
+#: page-option.php:692
+msgid "white"
+msgstr ""
+
+
+#: theme-option.php:1901
+msgid "wipe"
+msgstr ""
+
+
+#: author.php:116
+msgid "yet."
+msgstr ""
+
+
+#: theme-option.php:2540
+msgid "zabor"
+msgstr ""
+
+
+#: theme-option.php:1889
+msgid "zoom"
+msgstr ""
+
+
+#: theme-option.php:2529
+msgid "zoomer"
+msgstr ""
